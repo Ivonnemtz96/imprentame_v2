@@ -4,7 +4,7 @@
         <div class="mobile-logo-area d-flex justify-content-start
                     align-items-center">
             <div class="header-logo">
-                <a href="index.html"><img alt="image" class="img-fluid" src="assets/images/bg/header-logo.svg"></a>
+                <a href="index.html"><img alt="image" class="img-fluid" src="/assets/images/bg/header-logo.svg"></a>
             </div>
         </div>
         <div class="sidebar-menu-area">
@@ -99,10 +99,10 @@
             </ul>
         </div>
         <div class="sidebar-social d-flex justify-content-center gap-5">
-            <a href="https://www.instagram.com/"><img src="assets/images/icons/instagram.svg" alt="image"></a>
-            <a href="https://www.dribbble.com/"><img src="assets/images/icons/dribbble.svg" alt="image"></a>
-            <a href="https://www.pinterest.com/"><img src="assets/images/icons/pinterest.svg" alt="image"></a>
-            <a href="https://www.twitter.com/"><img src="assets/images/icons/Twitter.svg" alt="image"></a>
+            <a href="https://www.instagram.com/"><img src="/assets/images/icons/instagram.svg" alt="image"></a>
+            <a href="https://www.dribbble.com/"><img src="/assets/images/icons/dribbble.svg" alt="image"></a>
+            <a href="https://www.pinterest.com/"><img src="/assets/images/icons/pinterest.svg" alt="image"></a>
+            <a href="https://www.twitter.com/"><img src="/assets/images/icons/Twitter.svg" alt="image"></a>
         </div>
     </div>
 </div>
@@ -118,7 +118,7 @@
             </div>
             <div class="circle-text-common circel-tex-area1
                         circle-text-position">
-                <img src="assets/images/icons/camera-icon.svg" alt="image">
+                <img src="/assets/images/icons/camera-icon.svg" alt="image">
                 <p id="CircleTypeText1" class="circle-text">SCROLL *
                     DOWN NOW&nbsp; </p>
             </div>
@@ -143,7 +143,7 @@
         <div class="row align-items-center g-4">
             <div class="col-lg-6">
                 <div class="about-us-image">
-                    <img src="assets/images/bg/about-us1.png" alt="image">
+                    <img src="/assets/images/bg/about-us1.png" alt="image">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -208,8 +208,8 @@
                 <div class="about-image-group d-flex flex-row
                             flex-nowrap justify-content-lg-start
                             justify-content-center">
-                    <img src="assets/images/bg/about-us2.png" alt="image">
-                    <img src="assets/images/bg/about-us3.png" class="d-xxl-block d-none" alt="image">
+                    <img src="/assets/images/bg/about-us2.png" alt="image">
+                    <img src="/assets/images/bg/about-us3.png" class="d-xxl-block d-none" alt="image">
                 </div>
             </div>
         </div>
@@ -262,16 +262,16 @@
                 <div class="swiper testi-image-slider">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                            <img src="assets/images/testimonial/testi1-1.png" alt="image">
+                            <img src="/assets/images/testimonial/testi1-1.png" alt="image">
                         </div>
                         <div class="swiper-slide">
-                            <img src="assets/images/testimonial/testi1-2.png" alt="image">
+                            <img src="/assets/images/testimonial/testi1-2.png" alt="image">
                         </div>
                         <div class="swiper-slide">
-                            <img src="assets/images/testimonial/testi1-3.png" alt="image">
+                            <img src="/assets/images/testimonial/testi1-3.png" alt="image">
                         </div>
                         <div class="swiper-slide">
-                            <img src="assets/images/testimonial/testi1-4.png" alt="image">
+                            <img src="/assets/images/testimonial/testi1-4.png" alt="image">
                         </div>
                     </div>
                 </div>
@@ -466,7 +466,7 @@
             <div class="col-xl-4 col-lg-6 col-md-6 col-sm-10">
                 <div class="team-single-one">
                     <div class="team-image">
-                        <img src="assets/images/team/team1-1.png" alt="image">
+                        <img src="/assets/images/team/team1-1.png" alt="image">
                     </div>
                     <div class="team-content">
                         <div class="team-memb-info">
@@ -474,18 +474,18 @@
                             <span>Senior Photographer</span>
                         </div>
                         <ul class="social-one">
-                            <li><img src="assets/images/icons/instagram.svg" alt="image">
+                            <li><img src="/assets/images/icons/instagram.svg" alt="image">
                                 <a href="https://www.instagram.com/">IN</a>
                             </li>
-                            <li><img src="assets/images/icons/dribbble.svg" alt="image">
+                            <li><img src="/assets/images/icons/dribbble.svg" alt="image">
                                 <a href="https://www.dribbble.com/">DB</a>
                             </li>
                             <li>
-                                <img src="assets/images/icons/pinterest.svg" alt="image">
+                                <img src="/assets/images/icons/pinterest.svg" alt="image">
                                 <a href="https://www.pinterest.com/">PI</a>
                             </li>
                             <li>
-                                <img src="assets/images/icons/Twitter.svg" alt="image">
+                                <img src="/assets/images/icons/Twitter.svg" alt="image">
                                 <a href="https://www.twitter.com/">TW</a>
                             </li>
                         </ul>
@@ -495,7 +495,7 @@
             <div class="col-xl-4 col-lg-6 col-md-6 col-sm-10">
                 <div class="team-single-one">
                     <div class="team-image">
-                        <img src="assets/images/team/team1-2.png" alt="image">
+                        <img src="/assets/images/team/team1-2.png" alt="image">
                     </div>
                     <div class="team-content">
                         <div class="team-memb-info">
@@ -503,18 +503,18 @@
                             <span>CEO</span>
                         </div>
                         <ul class="social-one">
-                            <li><img src="assets/images/icons/instagram.svg" alt="image">
+                            <li><img src="/assets/images/icons/instagram.svg" alt="image">
                                 <a href="https://www.instagram.com/">IN</a>
                             </li>
-                            <li><img src="assets/images/icons/dribbble.svg" alt="image">
+                            <li><img src="/assets/images/icons/dribbble.svg" alt="image">
                                 <a href="https://www.dribbble.com/">DB</a>
                             </li>
                             <li>
-                                <img src="assets/images/icons/pinterest.svg" alt="image">
+                                <img src="/assets/images/icons/pinterest.svg" alt="image">
                                 <a href="https://www.pinterest.com/">PI</a>
                             </li>
                             <li>
-                                <img src="assets/images/icons/Twitter.svg" alt="image">
+                                <img src="/assets/images/icons/Twitter.svg" alt="image">
                                 <a href="https://www.twitter.com/">TW</a>
                             </li>
                         </ul>
@@ -524,7 +524,7 @@
             <div class="col-xl-4 col-lg-6 col-md-6 col-sm-10">
                 <div class="team-single-one">
                     <div class="team-image">
-                        <img src="assets/images/team/team1-3.png" alt="image">
+                        <img src="/assets/images/team/team1-3.png" alt="image">
                     </div>
                     <div class="team-content">
                         <div class="team-memb-info">
@@ -532,18 +532,18 @@
                             <span>News Photographer</span>
                         </div>
                         <ul class="social-one">
-                            <li><img src="assets/images/icons/instagram.svg" alt="image">
+                            <li><img src="/assets/images/icons/instagram.svg" alt="image">
                                 <a href="https://www.instagram.com/">IN</a>
                             </li>
-                            <li><img src="assets/images/icons/dribbble.svg" alt="image">
+                            <li><img src="/assets/images/icons/dribbble.svg" alt="image">
                                 <a href="https://www.dribbble.com/">DB</a>
                             </li>
                             <li>
-                                <img src="assets/images/icons/pinterest.svg" alt="image">
+                                <img src="/assets/images/icons/pinterest.svg" alt="image">
                                 <a href="https://www.pinterest.com/">PI</a>
                             </li>
                             <li>
-                                <img src="assets/images/icons/Twitter.svg" alt="image">
+                                <img src="/assets/images/icons/Twitter.svg" alt="image">
                                 <a href="https://www.twitter.com/">TW</a>
                             </li>
                         </ul>

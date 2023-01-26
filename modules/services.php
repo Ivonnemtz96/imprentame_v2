@@ -12,7 +12,7 @@
             </div>
             <div class="col-lg-4">
                 <div class="circle-text-common circel-tex-area1">
-                    <img src="assets/images/icons/camera-icon.svg" alt="image">
+                    <img src="/assets/images/icons/camera-icon.svg" alt="image">
                     <p id="CircleTypeText1" class="circle-text">SCROLL * DOWN NOW&nbsp; </p>
                 </div>
             </div>
@@ -27,10 +27,10 @@
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="service-single">
                     <div class="service-image">
-                        <img src="assets/images/bg/service-1.png" alt="image">
+                        <img src="/assets/images/bg/service-1.png" alt="image">
                     </div>
                     <div class="service-content">
-                        <img src="assets/images/icons/service-icon1.svg" alt="image">
+                        <img src="/assets/images/icons/service-icon1.svg" alt="image">
                         <h3><a href="#">Personal</a></h3>
                         <p>My name is Johnal Dainok. I live in Ohiogi USA. I’ve been ar photographer for overd 15 years
                             now. I started getting one top of thisant for this is our variental group intro gonateon
@@ -42,10 +42,10 @@
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="service-single">
                     <div class="service-image">
-                        <img src="assets/images/bg/service-2.png" alt="image">
+                        <img src="/assets/images/bg/service-2.png" alt="image">
                     </div>
                     <div class="service-content">
-                        <img src="assets/images/icons/service-icon2.svg" alt="image">
+                        <img src="/assets/images/icons/service-icon2.svg" alt="image">
                         <h3><a href="#">Wedding</a></h3>
                         <p>My name is Johnal Dainok. I live in Ohiogi USA. I’ve been ar photographer for overd 15 years
                             now. I started getting one top of thisant for this is our variental group intro gonateon
@@ -57,10 +57,10 @@
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="service-single">
                     <div class="service-image">
-                        <img src="assets/images/bg/service-3.png" alt="image">
+                        <img src="/assets/images/bg/service-3.png" alt="image">
                     </div>
                     <div class="service-content">
-                        <img src="assets/images/icons/service-icon3.svg" alt="image">
+                        <img src="/assets/images/icons/service-icon3.svg" alt="image">
                         <h3><a href="#">Modeling</a></h3>
                         <p>My name is Johnal Dainok. I live in Ohiogi USA. I’ve been ar photographer for overd 15 years
                             now. I started getting one top of thisant for this is our variental group intro gonateon
@@ -72,10 +72,10 @@
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="service-single">
                     <div class="service-image">
-                        <img src="assets/images/bg/service-4.png" alt="image">
+                        <img src="/assets/images/bg/service-4.png" alt="image">
                     </div>
                     <div class="service-content">
-                        <img src="assets/images/icons/service-icon4.svg" alt="image">
+                        <img src="/assets/images/icons/service-icon4.svg" alt="image">
                         <h3><a href="#">Editing</a></h3>
                         <p>My name is Johnal Dainok. I live in Ohiogi USA. I’ve been ar photographer for overd 15 years
                             now. I started getting one top of thisant for this is our variental group intro gonateon

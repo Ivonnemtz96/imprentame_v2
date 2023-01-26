@@ -12,7 +12,7 @@
             </div>
             <div class="col-lg-4">
                 <div class="circle-text-common circel-tex-area1">
-                    <img src="assets/images/icons/camera-icon.svg" alt="image">
+                    <img src="/assets/images/icons/camera-icon.svg" alt="image">
                     <p id="CircleTypeText1" class="circle-text">SCROLL * DOWN NOW&nbsp; </p>
                 </div>
             </div>

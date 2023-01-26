@@ -7,9 +7,9 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Wedding Photography.</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de Bodas.</a>
                         </h3>
-                        <span>Photographer</span>
+                        <span>Fotografía</span>
                     </div>
                 </div>
             </div>
@@ -20,9 +20,9 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Wedding Photography.</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de XV Años.</a>
                         </h3>
-                        <span>Photographer</span>
+                        <span>Fotografía</span>
                     </div>
                 </div>
             </div>
@@ -33,9 +33,9 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Personal Photography.</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de Bodas.</a>
                         </h3>
-                        <span>Photographer</span>
+                        <span>Fotografía</span>
                     </div>
                 </div>
             </div>
@@ -46,9 +46,9 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Art Photography.</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de XV Años.</a>
                         </h3>
-                        <span>Photographer</span>
+                        <span>Fotografía</span>
                     </div>
                 </div>
             </div>
@@ -59,9 +59,9 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Wedding Photography.</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de Bodas.</a>
                         </h3>
-                        <span>Photographer</span>
+                        <span>Fotografía</span>
                     </div>
                 </div>
             </div>
@@ -72,9 +72,9 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Portfolio Photography.</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de XV Años.</a>
                         </h3>
-                        <span>Photographer</span>
+                        <span>Fotografía</span>
                     </div>
                 </div>
             </div>
@@ -85,9 +85,9 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Drone Photography.</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de Bodas.</a>
                         </h3>
-                        <span>Photographer</span>
+                        <span>Fotografía</span>
                     </div>
                 </div>
             </div>
@@ -98,9 +98,9 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Wedding Photography.</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de XV Años.</a>
                         </h3>
-                        <span>Photographer</span>
+                        <span>Fotografía</span>
                     </div>
                 </div>
             </div>
@@ -111,9 +111,9 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Nature Photography.</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de Bodas.</a>
                         </h3>
-                        <span>Photographer</span>
+                        <span>Fotografía</span>
                     </div>
                 </div>
             </div>
@@ -124,9 +124,9 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Wedding Photography.</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de XV Años.</a>
                         </h3>
-                        <span>Photographer</span>
+                        <span>Fotografía</span>
                     </div>
                 </div>
             </div>
@@ -137,9 +137,9 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Wedding Photography.</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de Bodas.</a>
                         </h3>
-                        <span>Photographer</span>
+                        <span>Fotografía</span>
                     </div>
                 </div>
             </div>
@@ -150,9 +150,9 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Portfolio Photography.</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de XV Años.</a>
                         </h3>
-                        <span>Photographer</span>
+                        <span>Fotografía</span>
                     </div>
                 </div>
             </div>
@@ -163,19 +163,19 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Portfolio Photography.</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de Bodas.</a>
                         </h3>
-                        <span>Photographer</span>
+                        <span>Fotografía</span>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="row">
+    <!-- <div class="row">
         <div class="col-lg-12 d-flex justify-content-center">
             <div class="load-more-btn">
                 <a class="eg-btn btn--primary btn--lg" href="#">Load More</a>
             </div>
         </div>
-    </div>
+    </div> -->
 </div>

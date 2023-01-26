@@ -4,7 +4,7 @@
             <a href="index.html"><img alt="image" class="img-fluid" src="assets/images/bg/header-logo.svg" /></a>
         </div>
         <ul class="menu-list">
-            <li class="menu-item-has-children">
+            <!-- <li class="menu-item-has-children">
                 <a href="index.html">Home</a><i class="bx bxs-circle dropdown-icon"></i>
                 <ul class="submenu">
                     <li><a href="index.html">Home One</a></li>
@@ -84,7 +84,46 @@
                     <li><a href="contact-me.html">Contact Me</a></li>
                     <li><a href="contact-us.html">Contact Us</a></li>
                 </ul>
+            </li> -->
+
+            <li>
+                <a href="">Inicio <i class="bx bxs-circle dropdown-icon"></i></a>
             </li>
+            <li>
+                <a href="">Nosotros <i class="bx bxs-circle dropdown-icon"></i></a>
+            </li>
+            <li>
+                <a href="">Portafolio <i class="bx bxs-circle dropdown-icon"></i></a>
+            </li>
+            <li class="menu-item-has-children">
+                <a href="">Arte <i class="bx bxs-circle dropdown-icon"></i></a>
+                <ul class="submenu">
+                    <li><a href="">Retoque digital</a></li>
+                    <li><a href="">Marcos de madera</a></li>
+                    <li><a href="">Restauración de fotografías</a></li>
+                </ul>
+            </li>
+            <li class="menu-item-has-children">
+                <a href="">Fotografía <i class="bx bxs-circle dropdown-icon"></i></a>
+                <ul class="submenu">
+                    <li><a href="">Bodas</a></li>
+                    <li><a href="">XV Años</a></li>
+                </ul>
+            </li>
+            <li class="menu-item-has-children">
+                <a href="">Video <i class="bx bxs-circle dropdown-icon"></i></a>
+                <ul class="submenu">
+                    <li><a href="">Bodas</a></li>
+                    <li><a href="">XV Años</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="">Galería <i class="bx bxs-circle dropdown-icon"></i></a>
+            </li>
+            <li>
+                <a href="">Contacto <i class="bx bxs-circle dropdown-icon"></i></a>
+            </li>
+
         </ul>
         <div class="sidebar-button mobile-menu-btn">
             <span></span>

@@ -12,7 +12,7 @@
             </div>
             <div class="col-lg-4">
                 <div class="circle-text-common circel-tex-area1">
-                    <img src="assets/images/icons/camera-icon.svg" alt="image">
+                    <img src="/assets/images/icons/camera-icon.svg" alt="image">
                     <p id="CircleTypeText1" class="circle-text">SCROLL * DOWN NOW&nbsp; </p>
                 </div>
             </div>
@@ -33,44 +33,44 @@
                         <li class="nav-item" role="presentation">
                             <a class="nav-link active" data-bs-toggle="tab" href="#tab-one" aria-selected="false"
                                 role="tab" tabindex="-1">
-                                <img src="assets/images/icons/list-cicle.svg" alt="image">Artist
+                                <img src="/assets/images/icons/list-cicle.svg" alt="image">Artist
                             </a>
                         </li>
                         <li class="nav-item" role="presentation">
                             <a class="nav-link" data-bs-toggle="tab" href="#tab-two" aria-selected="false" role="tab">
-                                <img src="assets/images/icons/list-cicle.svg" alt="image">Portfolio
+                                <img src="/assets/images/icons/list-cicle.svg" alt="image">Portfolio
                             </a>
                         </li>
                         <li class="nav-item" role="presentation">
                             <a class="nav-link" data-bs-toggle="tab" href="#tab-three" aria-selected="false" role="tab">
-                                <img src="assets/images/icons/list-cicle.svg" alt="image">Crypto
+                                <img src="/assets/images/icons/list-cicle.svg" alt="image">Crypto
                             </a>
                         </li>
                         <li class="nav-item" role="presentation">
                             <a class="nav-link" data-bs-toggle="tab" href="#tab-four" aria-selected="false" role="tab">
-                                <img src="assets/images/icons/list-cicle.svg" alt="image">Digital Token
+                                <img src="/assets/images/icons/list-cicle.svg" alt="image">Digital Token
                             </a>
                         </li>
                         <li class="nav-item" role="presentation">
                             <a class="nav-link" data-bs-toggle="tab" href="#tab-five" aria-selected="false" role="tab">
-                                <img src="assets/images/icons/list-cicle.svg" alt="image">Blockchain NFT
+                                <img src="/assets/images/icons/list-cicle.svg" alt="image">Blockchain NFT
                             </a>
                         </li>
                     </ul>
                     <h4>Social Media</h4>
                     <ul class="social-one justify-content-start">
-                        <li><img src="assets/images/icons/instagram.svg" alt="image">
+                        <li><img src="/assets/images/icons/instagram.svg" alt="image">
                             <a href="https://www.instagram.com/">IN</a>
                         </li>
-                        <li><img src="assets/images/icons/dribbble.svg" alt="image">
+                        <li><img src="/assets/images/icons/dribbble.svg" alt="image">
                             <a href="https://www.dribbble.com/">DB</a>
                         </li>
                         <li>
-                            <img src="assets/images/icons/pinterest.svg" alt="image">
+                            <img src="/assets/images/icons/pinterest.svg" alt="image">
                             <a href="https://www.pinterest.com/">PI</a>
                         </li>
                         <li>
-                            <img src="assets/images/icons/Twitter.svg" alt="image">
+                            <img src="/assets/images/icons/Twitter.svg" alt="image">
                             <a href="https://www.twitter.com/">TW</a>
                         </li>
                     </ul>
