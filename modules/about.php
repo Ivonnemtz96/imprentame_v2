@@ -37,13 +37,15 @@
             </div>
             <div class="col-lg-6">
                 <div class="about-us-content">
-                    <p>My name is Johnal Dainok. I live in Ohio, USA.
-                        I’ve been a photographer for over 15 years
-                        now. I started getting into photography when my
-                        family moved from Nevada to Ohio. Onar
-                        Switching places from such a young age made it
-                        possible for me to see many different andr
-                        places besides my hometown.</p>
+                    <p><strong>Imprentame</strong> te ofrece Arte, Fotogratla y Video Profesional en Los Cabos, ofrecemos diferentes
+                        tipos de
+                        fotogratía, como son: fotografía de boda, fotografia de quinceañera, fotografía de grupos,
+                        fotografía de retrato,
+                        fotografía de embarazo, fotografía de reclén nacido, fotografia de niños, fotografia familiar,
+                        fotografla de
+                        producto, fotografia de alimentos Y bebidas, fotografia de overa, fotografla de moda, fotografia
+                        de tours
+                        privados, fotografia de graduaciones, entre otras.</p>
                     <p>I wanted to capture everything that seemed
                         magical to the eye. After 5 years of thisa andoi
                         freelancing and working for big companies I
