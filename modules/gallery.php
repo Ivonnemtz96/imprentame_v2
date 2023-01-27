@@ -2,11 +2,11 @@
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-8 d-flex justify-content-lg-start justify-content-center flex-column">
-                <h2 class="bread-crumb-title">Gallery Fullwidth</h2>
+                <h2 class="bread-crumb-title">Arte capturado en una foto</h2>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb gap-3 m-0 p-0">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Gallery Fullwidth</li>
+                        <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Galería</li>
                     </ol>
                 </nav>
             </div>
