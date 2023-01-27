@@ -7,7 +7,7 @@
 <body class="tt-magic-cursor">
         <?php
         include("includes/header.php");
-        include("modules/detail_wedding.php");
+        include("modules/pricing.php");
         include("includes/footer.php");
         include("includes/scripts.php");
     ?>

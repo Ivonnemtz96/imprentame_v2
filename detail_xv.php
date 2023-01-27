@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="es">
 <?php
@@ -7,7 +8,7 @@
 <body class="tt-magic-cursor">
         <?php
         include("includes/header.php");
-        include("modules/detail_wedding.php");
+        include("modules/detail_xv.php");
         include("includes/footer.php");
         include("includes/scripts.php");
     ?>

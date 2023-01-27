@@ -120,6 +120,13 @@
             <li>
                 <a href="/gallery">Galería <i class="bx bxs-circle dropdown-icon"></i></a>
             </li>
+            <li class="menu-item-has-children">
+                <a href="">Ver paquetes <i class="bx bxs-circle dropdown-icon"></i></a>
+                <ul class="submenu">
+                    <li><a href="/pricing.php">Fotografía</a></li>
+                    <li><a href="/pricing_video.php">Video</a></li>
+                </ul>
+            </li>
             <li>
                 <a href="/contact">Contacto <i class="bx bxs-circle dropdown-icon"></i></a>
             </li>
