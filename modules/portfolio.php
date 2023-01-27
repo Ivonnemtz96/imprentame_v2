@@ -2,12 +2,12 @@
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-8 d-flex justify-content-lg-start justify-content-center flex-column">
-                <h2 class="bread-crumb-title">Portfolio Text Down</h2>
+                <h2 class="bread-crumb-title">Nuestro sorpendente trabajo</h2>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb gap-3 m-0 p-0">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                        <li class="breadcrumb-item"><a href="/">Inicio</a></li>
                         <li class="breadcrumb-item active" aria-current="page">
-                            Portfolio Text Down
+                            Portafolio
                         </li>
                     </ol>
                 </nav>
@@ -28,16 +28,18 @@
     <div class="container">
         <div class="row justify-content-center g-4">
             <div class="col-lg-12 text-center">
-                <h2 class="section-title-one">Portfolio</h2>
+                <h2 class="section-title-one">Portafolio</h2>
             </div>
             <div class="col-lg-12">
                 <div class="filters filter-button-group">
                     <ul class="d-flex justify-content-center flex-wrap">
-                        <li class="active" data-filter="*">All <span>50</span></li>
-                        <li data-filter=".wedding">Wedding <span>30</span></li>
-                        <li data-filter=".Fashion">Fashion <span>80</span></li>
-                        <li data-filter=".Lifestyle">Lifestyle <span>60</span></li>
-                        <li data-filter=".Nature">Nature <span>60</span></li>
+                        <!-- <li class="active" data-filter="*">Todos <span>50</span></li> -->
+                        <li class="active" data-filter="*">Todos</li>
+                        <li data-filter=".wedding">Bodas</li>
+                        <li data-filter=".Fashion">XV Años </li>
+                        <li data-filter=".Lifestyle">Productos</li>
+                        <li data-filter=".Nature">Restauraciones</li>
+                        <li data-filter=".Nature">Eventos</li>
                     </ul>
                 </div>
             </div>
@@ -48,9 +50,9 @@
                     <img class="img-fluid" src="/assets/images/portfolio/portfolio4-1.png" alt="image" />
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Floona Photoshoot</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">Bodas playa</a>
                         </h3>
-                        <span>Commisson</span>
+                        <span>Fotografía</span>
                     </div>
                 </div>
             </div>
@@ -59,9 +61,9 @@
                     <img class="img-fluid" src="/assets/images/portfolio/portfolio4-3.png" alt="image" />
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Simply The best</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">Bodas religiosas</a>
                         </h3>
-                        <span>Editorial</span>
+                        <span>Fotografía</span>
                     </div>
                 </div>
             </div>
@@ -70,9 +72,9 @@
                     <img class="img-fluid" src="/assets/images/portfolio/portfolio4-4.png" alt="image" />
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Interstellar Midnight</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">XV años</a>
                         </h3>
-                        <span>Personal</span>
+                        <span>Fotografía</span>
                     </div>
                 </div>
             </div>
@@ -81,9 +83,9 @@
                     <img class="img-fluid" src="/assets/images/portfolio/portfolio4-6.png" alt="image" />
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Paradise Dream</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">Sesión Salón</a>
                         </h3>
-                        <span>Personal</span>
+                        <span>Fotografía</span>
                     </div>
                 </div>
             </div>
@@ -92,9 +94,9 @@
                     <img class="img-fluid" src="/assets/images/portfolio/portfolio4-2.png" alt="image" />
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Honey Magazine</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">Productos</a>
                         </h3>
-                        <span>Sculpture</span>
+                        <span>Fotografía</span>
                     </div>
                 </div>
             </div>
@@ -103,9 +105,9 @@
                     <img class="img-fluid" src="/assets/images/portfolio/portfolio4-5.png" alt="image" />
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Pretty Cool Vibes</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">Bebés</a>
                         </h3>
-                        <span>Portraits</span>
+                        <span>Fotografía</span>
                     </div>
                 </div>
             </div>
@@ -114,9 +116,9 @@
                     <img class="img-fluid" src="/assets/images/portfolio/portfolio4-8.png" alt="image" />
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Erik Couchering</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">Embarazo</a>
                         </h3>
-                        <span>Editorial</span>
+                        <span>Fotografía</span>
                     </div>
                 </div>
             </div>
@@ -125,9 +127,9 @@
                     <img class="img-fluid" src="/assets/images/portfolio/portfolio4-7.png" alt="image" />
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Sunny Side Up</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">Restauraciones</a>
                         </h3>
-                        <span>Personal</span>
+                        <span>Restauración</span>
                     </div>
                 </div>
             </div>
@@ -136,19 +138,19 @@
                     <img class="img-fluid" src="/assets/images/portfolio/portfolio4-9.png" alt="image" />
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Ornament State</a>
+                            <a data-cursor="View<br>Details" href="portfolio-details.html">Eventos</a>
                         </h3>
-                        <span>Commisson</span>
+                        <span>Fotografía</span>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="row">
+        <!-- <div class="row">
             <div class="col-lg-12 d-flex justify-content-center">
                 <div class="load-more-btn">
                     <a class="eg-btn btn--primary btn--lg" href="#">Load More</a>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </div>
