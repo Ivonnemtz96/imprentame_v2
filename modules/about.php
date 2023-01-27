@@ -123,31 +123,31 @@
                 <div class="counter-single style-two">
                     <div class="coundown d-flex flex-column">
                         <h2 class="odometer" data-odometer-final="50">01</h2>
-                        <p class="mb-0">Fashion Photography</p>
+                        <p class="mb-0">Sesiones Fotográficas</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-6">
                 <div class="counter-single style-two">
                     <div class="coundown d-flex flex-column">
-                        <h2 class="odometer" data-odometer-final="150">01</h2>
-                        <p class="mb-0">Wedding Photography</p>
+                        <h2 class="odometer" data-odometer-final="30">01</h2>
+                        <p class="mb-0">Retoques digitales</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-6">
                 <div class="counter-single style-two">
                     <div class="coundown d-flex flex-column">
-                        <h2 class="odometer" data-odometer-final="90">01</h2>
-                        <p class="mb-0">Birthday Photography</p>
+                        <h2 class="odometer" data-odometer-final="30">01</h2>
+                        <p class="mb-0">Bodas</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-6">
                 <div class="counter-single style-two">
                     <div class="coundown d-flex flex-column">
-                        <h2 class="odometer" data-odometer-final="90">01</h2>
-                        <p class="mb-0">Street Photography</p>
+                        <h2 class="odometer" data-odometer-final="20">01</h2>
+                        <p class="mb-0">XV Años</p>
                     </div>
                 </div>
             </div>
@@ -180,7 +180,7 @@
                         order-1">
                 <div class="section-title-one text-lg-start
                             text-center">
-                    <h2>Lets find what My honored members say.</h2>
+                    <h2>Lo qué dicen de nosotros</h2>
                 </div>
                 <div class="slider-arrows arrows-style-1 text-center
                             d-lg-flex d-none flex-row justify-content-lg-end
@@ -353,7 +353,7 @@
 </div>
 
 
-<div class="team-section pb-120">
+<div hidden class="team-section pb-120">
     <div class="container">
         <div class="row justify-content-center mb-40">
             <div class="col-lg-10 text-center">
