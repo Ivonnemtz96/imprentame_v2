@@ -87,13 +87,13 @@
             </li> -->
 
             <li>
-                <a href="">Inicio <i class="bx bxs-circle dropdown-icon"></i></a>
+                <a href="/">Inicio <i class="bx bxs-circle dropdown-icon"></i></a>
             </li>
             <li>
-                <a href="">Nosotros <i class="bx bxs-circle dropdown-icon"></i></a>
+                <a href="/about">Nosotros <i class="bx bxs-circle dropdown-icon"></i></a>
             </li>
             <li>
-                <a href="">Portafolio <i class="bx bxs-circle dropdown-icon"></i></a>
+                <a href="/portfolio">Portafolio <i class="bx bxs-circle dropdown-icon"></i></a>
             </li>
             <li class="menu-item-has-children">
                 <a href="">Arte <i class="bx bxs-circle dropdown-icon"></i></a>
@@ -118,10 +118,10 @@
                 </ul>
             </li>
             <li>
-                <a href="">Galería <i class="bx bxs-circle dropdown-icon"></i></a>
+                <a href="/gallery">Galería <i class="bx bxs-circle dropdown-icon"></i></a>
             </li>
             <li>
-                <a href="">Contacto <i class="bx bxs-circle dropdown-icon"></i></a>
+                <a href="/contact">Contacto <i class="bx bxs-circle dropdown-icon"></i></a>
             </li>
 
         </ul>
