@@ -22,11 +22,11 @@
                     g-4">
             <div class="col-lg-8 text-lg-start text-center">
                 <div class="about-us-content">
-                    <h2>We’re PicsZen, a small photo agency based.</h2>
+                    <h2>¿Qué es Imprentame?</h2>
                 </div>
             </div>
             <div class="col-lg-4 text-lg-end text-center">
-                <a class="eg-btn btn--primary btn--lg" href="booking.html">Appointment Now</a>
+                <a class="eg-btn btn--primary btn--lg" href="/gallery">Ver galería</a>
             </div>
         </div>
         <div class="row align-items-center g-4">
@@ -37,7 +37,8 @@
             </div>
             <div class="col-lg-6">
                 <div class="about-us-content">
-                    <p><strong>Imprentame</strong> te ofrece Arte, Fotogratla y Video Profesional en Los Cabos, ofrecemos diferentes
+                    <p><strong>Imprentame</strong> te ofrece Arte, Fotogratla y Video Profesional en Los Cabos,
+                        ofrecemos diferentes
                         tipos de
                         fotogratía, como son: fotografía de boda, fotografia de quinceañera, fotografía de grupos,
                         fotografía de retrato,
@@ -46,28 +47,36 @@
                         producto, fotografia de alimentos Y bebidas, fotografia de overa, fotografla de moda, fotografia
                         de tours
                         privados, fotografia de graduaciones, entre otras.</p>
-                    <p>I wanted to capture everything that seemed
-                        magical to the eye. After 5 years of thisa andoi
-                        freelancing and working for big companies I
-                        founded my own photography agency. I meani back
-                        and forth from Ohio to Nevada for work.</p>
-                    <p>I wanted to capture everything that seemed
-                        magical to the eye. After 5 years of thisa andoi
-                        freelancing and working for big companies I
-                        founded my own photography.</p>
+
+                    <p>
+                        Utilizamos las últimas versiones de software de edición, como son Photoshop, Lightroom, Premier,
+                        After Effects. Manejamos cámaras y lentes de la marca Nikon. Hablamos inglés y español.
+                    </p>
+                    <p>
+
+                        Creamos arte, fabricamos finos marcos de madera, en color nogal, manejamos diferentes tamaños,
+                        podemos enmarcar y retocar tu foto favorita de la sesión con un costo adicional. También
+                        contamos con servicios de restauración de fotografías y retoque digital con pincel. Recuerda que
+                        puedes enviarnos tus fotografías tomadas por otro fotógrafo y nosotros las retocamos,
+                        imprimimos, texturizamos y enmarcamos.
+
+                    </p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="experience-block">
-                    <h2>Experience</h2>
-                    <p>My name is Johnal Dainok. I live in Ohio, USA.
-                        I’ve been a photographer for over 15 years
-                        now. I started getting on into photography when
-                        my family moved from.</p>
+                    <h2>Experiencia</h2>
+                    <p>
+                        Mi nombre es Jorge Montoya, hablo inglés y español, artista retocador digital, fotógrafo y
+                        videógrafo quien siempre está en
+                        búsqueda de actualizaciones de fotografía, para entregar fotografías creativas y diferentes,
+                        además, especializado en retoque fotográfico y restauración de fotografías con pincel
+                        digital, lo cual garantiza que tus fotografías serán increíbles.
+                    </p>
                     <ul class="skills-bar-container">
                         <li>
                             <div class="progressbar-title">
-                                <h6>Photography</h6>
+                                <h6>Fotografía</h6>
                                 <span class="percent" id="html-pourcent"></span>
                             </div>
                             <div class="bar-container">
@@ -76,7 +85,7 @@
                         </li>
                         <li>
                             <div class="progressbar-title">
-                                <h6>Video Graphy</h6>
+                                <h6>Video</h6>
                                 <span class="percent" id="css-pourcent"></span>
                             </div>
                             <div class="bar-container">
@@ -85,7 +94,7 @@
                         </li>
                         <li>
                             <div class="progressbar-title">
-                                <h6>Portrait</h6>
+                                <h6>Retoques digitales</h6>
                                 <span class="percent" id="javascript-pourcent"></span>
                             </div>
                             <div class="bar-container">
