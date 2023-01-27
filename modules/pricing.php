@@ -2,11 +2,11 @@
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-8 d-flex justify-content-lg-start justify-content-center flex-column">
-                <h2 class="bread-crumb-title">Pricing Plan</h2>
+                <h2 class="bread-crumb-title">Nuestros paquetes</h2>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb gap-3 m-0 p-0">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Pricing Plan</li>
+                        <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Paquetes</li>
                     </ol>
                 </nav>
             </div>
@@ -28,11 +28,11 @@
                 <ul class="nav nav-tabs portfolio-tab-list mb-70" role="tablist">
                     <li class="nav-item" role="presentation">
                         <a class="nav-link active" data-bs-toggle="tab" href="#tab-slider-one" aria-selected="false"
-                            role="tab" tabindex="-1">Per/Hour</a>
+                            role="tab" tabindex="-1">Bodas</a>
                     </li>
                     <li class="nav-item" role="presentation">
                         <a class="nav-link" data-bs-toggle="tab" href="#tab-slider-two" aria-selected="false"
-                            role="tab">Per/Day
+                            role="tab">XV Años
                         </a>
                     </li>
                 </ul>
@@ -43,101 +43,254 @@
                             <div class="col-xl-4 col-lg-6 col-md-6">
                                 <div class="pricing-single">
                                     <div class="pricing-header">
-                                        <span>Wedding Function</span>
-                                        <h2> <sup>$</sup> 990</h2>
+                                        <h3>Paquete 1 - Elemental</h3>
+                                        <!-- <h2> <sup>$</sup> 990</h2> -->
                                     </div>
                                     <ul class="pricing-feature-list">
-                                        <li><span>Time</span><span>5-7 Hours</span></li>
-                                        <li><span>Package</span><span>300+ Photo</span></li>
-                                        <li><span>Video</span><span>Photo Timeline</span></li>
-                                        <li><span>Photo Edit</span><span>Free</span></li>
-                                        <li><span>Delivery</span><span>1-2 Month</span></li>
+                                        <li><span>Duración</span><span>8 horas</span></li>
+                                        <li><span>Paquete</span><span>100 Fotos retoque profesional</span></li>
+                                        <li><span>Extra</span><span>50 Fotos impresas 6x8</span></li>
+                                        <li><span>Sesión</span><span>Pre-boda, ceremonia, recién casados y salón de evento</span></li>
+                                        <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
+                                        <li><span>Entrega</span><span>Por medio de un link</span></li>
                                     </ul>
-                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">Appointment Now</a>
+                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                <div class="pricing-single">
+                                    <div class="pricing-header">
+                                        <h3>Paquete 2 - Recuerdos</h3>
+                                        <!-- <h2> <sup>$</sup> 1090</h2> -->
+                                    </div>
+                                    <ul class="pricing-feature-list">
+                                        <li><span>Duración</span><span>8 horas</span></li>
+                                        <li><span>Paquete</span><span>100 Fotos retoque profesional</span></li>
+                                        <li><span>Extra</span><span>50 Fotos impresas 6x8</span></li>
+                                        <li><span>Extra</span><span>Caja de fotografías con portada impresa 6x8”</span></li>
+                                        <li><span>Extra</span><span>2 fotografías tamaño 28x40 cm</span></li>
+                                        <li><span>Sesión</span><span>Pre-boda, ceremonia, recién casados y salón de evento</span></li>
+                                        <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
+                                        <li><span>Entrega</span><span>Por medio de un link</span></li>
+                                    </ul>
+                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
                                 </div>
                             </div>
                             <div class="col-xl-4 col-lg-6 col-md-6">
                                 <div class="pricing-single">
                                     <div class="pricing-header">
-                                        <span>Studio Portrait</span>
-                                        <h2> <sup>$</sup> 1090</h2>
+                                        <h3>Paquete 3 - Memorias </span>
+                                            <!-- <h2> <sup>$</sup> 2990</h2> -->
                                     </div>
                                     <ul class="pricing-feature-list">
-                                        <li><span>Time</span><span>2 Hours</span></li>
-                                        <li><span>Package</span><span>Up To 50 Photo</span></li>
-                                        <li><span>Video</span><span>Up To 03</span></li>
-                                        <li><span>Photo Edit</span><span>Free</span></li>
-                                        <li><span>Delivery</span><span>2-3 Months</span></li>
+                                        <li><span>Duración</span><span>8 horas</span></li>
+                                        <li><span>Paquete</span><span>100 Fotos retoque profesional</span></li>
+                                        <li><span>Extra</span><span>50 Fotos impresas 6x8</span></li>
+                                        <li><span>Extra</span><span>Caja de fotografías con portada impresa 6x8”</span></li>
+                                        <li><span>Extra</span><span>1 libro de fotografía, portada pasta dura (7 hojas, 14 pág.)</span></li>
+                                        <li><span>Sesión</span><span>Pre-boda, ceremonia, recién casados y salón de evento</span></li>
+                                        <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
+                                        <li><span>Entrega</span><span>Por medio de un link</span></li>
                                     </ul>
-                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">Appointment Now</a>
+                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
                                 </div>
                             </div>
+
+
                             <div class="col-xl-4 col-lg-6 col-md-6">
                                 <div class="pricing-single">
                                     <div class="pricing-header">
-                                        <span>Fashion </span>
-                                        <h2> <sup>$</sup> 2990</h2>
+                                        <h3>Paquete 4 - Cristal </span>
+                                            <!-- <h2> <sup>$</sup> 2990</h2> -->
                                     </div>
                                     <ul class="pricing-feature-list">
-                                        <li><span>Time</span><span>3 Hours</span></li>
-                                        <li><span>Package</span><span>300+ Photo</span></li>
-                                        <li><span>Video</span><span>Up To 07</span></li>
-                                        <li><span>Photo Edit</span><span>Free</span></li>
-                                        <li><span>Delivery</span><span>5-6 Areas</span></li>
+                                        <li><span>Duración</span><span>8 horas</span></li>
+                                        <li><span>Paquete</span><span>100 Fotos retoque profesional</span></li>
+                                        <li><span>Extra</span><span>50 Fotos impresas 6x8</span></li>
+                                        <li><span>Extra</span><span>Caja de fotografías con portada impresa 6x8”</span></li>
+                                        <li><span>Extra</span><span>1 libro de fotografía, portada pasta dura (7 hojas, 14 pág.)</span></li>
+                                        <li><span>Extra</span><span>1 cuadro fino de madera tamaño 28x40 cm</span></li>
+                                        <li><span>Sesión</span><span>Pre-boda, ceremonia, recién casados y salón de evento</span></li>
+                                        <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
+                                        <li><span>Entrega</span><span>Por medio de un link</span></li>
                                     </ul>
-                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">Appointment Now</a>
+                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
+                                </div>
+                            </div>
+
+
+                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                <div class="pricing-single">
+                                    <div class="pricing-header">
+                                        <h3>Paquete 5 - Diamante </span>
+                                            <!-- <h2> <sup>$</sup> 2990</h2> -->
+                                    </div>
+                                    <ul class="pricing-feature-list">
+                                        <li><span>Duración</span><span>8 horas</span></li>
+                                        <li><span>Paquete</span><span>100 Fotos retoque profesional</span></li>
+                                        <li><span>Extra</span><span>50 Fotos impresas 6x8</span></li>
+                                        <li><span>Extra</span><span>Caja de fotografías con portada impresa 6x8”</span></li>
+                                        <li><span>Extra</span><span>1 libro de fotografía, portada pasta dura (7 hojas, 14 pág.)</span></li>
+                                        <li><span>Extra</span><span>1 cuadro fino de madera tamaño 40x60 cm</span></li>
+                                        <li><span>Sesión</span><span>Pre-boda, ceremonia, recién casados y salón de evento</span></li>
+                                        <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
+                                        <li><span>Entrega</span><span>Por medio de un link</span></li>
+                                    </ul>
+                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
+                                </div>
+                            </div>
+
+
+                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                <div class="pricing-single">
+                                    <div class="pricing-header">
+                                        <h3>Paquete 6 - Platino </span>
+                                            <!-- <h2> <sup>$</sup> 2990</h2> -->
+                                    </div>
+                                    <ul class="pricing-feature-list">
+                                        <li><span>Duración</span><span>8 horas</span></li>
+                                        <li><span>Paquete</span><span>100 Fotos retoque profesional</span></li>
+                                        <li><span>Extra</span><span>50 Fotos impresas 6x8</span></li>
+                                        <li><span>Extra</span><span>Caja de fotografías con portada impresa</span></li>
+                                        <li><span>Extra</span><span>1 libro de fotografía, portada acrílico (15 hojas, 30 pág.)</span></li>
+                                        <li><span>Extra</span><span>1 cuadro fino de madera tamaño 40x60 cm</span></li>
+                                        <li><span>Sesión</span><span>Pre-boda, ceremonia, recién casados y salón de evento</span></li>
+                                        <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
+                                        <li><span>Entrega</span><span>Por medio de un link</span></li>
+                                    </ul>
+                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
                                 </div>
                             </div>
                         </div>
                     </div>
+
+
+
+
+
                     <div class="tab-pane fade active show" id="tab-slider-two" role="tabpanel">
-                        <div class="row g-4">
+                    <div class="row g-4">
                             <div class="col-xl-4 col-lg-6 col-md-6">
                                 <div class="pricing-single">
                                     <div class="pricing-header">
-                                        <span>Wedding day</span>
-                                        <h2> <sup>$</sup> 4,990</h2>
+                                        <h3>Paquete 1 - Elemental</h3>
+                                        <!-- <h2> <sup>$</sup> 990</h2> -->
                                     </div>
                                     <ul class="pricing-feature-list">
-                                        <li><span>Time</span><span>5-7 Hours</span></li>
-                                        <li><span>Package</span><span>300+ Photo</span></li>
-                                        <li><span>Video</span><span>Photo Timeline</span></li>
-                                        <li><span>Photo Edit</span><span>Free</span></li>
-                                        <li><span>Delivery</span><span>1-2 Month</span></li>
+                                        <li><span>Duración</span><span>8 horas</span></li>
+                                        <li><span>Paquete</span><span>100 Fotos retoque profesional</span></li>
+                                        <li><span>Extra</span><span>50 Fotos impresas 6x8</span></li>
+                                        <li><span>Sesión</span><span>Pre-XV, ceremonia, sesion de recuerdo y sesión de evento</span></li>
+                                        <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
+                                        <li><span>Entrega</span><span>Por medio de un link</span></li>
                                     </ul>
-                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">Appointment Now</a>
+                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                <div class="pricing-single">
+                                    <div class="pricing-header">
+                                        <h3>Paquete 2 - Recuerdos</h3>
+                                        <!-- <h2> <sup>$</sup> 1090</h2> -->
+                                    </div>
+                                    <ul class="pricing-feature-list">
+                                        <li><span>Duración</span><span>8 horas</span></li>
+                                        <li><span>Paquete</span><span>100 Fotos retoque profesional</span></li>
+                                        <li><span>Extra</span><span>50 Fotos impresas 6x8</span></li>
+                                        <li><span>Extra</span><span>Caja de fotografías con portada impresa 6x8”</span></li>
+                                        <li><span>Extra</span><span>2 fotografías tamaño 28x40 cm</span></li>
+                                        <li><span>Sesión</span><span>Pre-boda, ceremonia, recién casados y salón de evento</span></li>
+                                        <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
+                                        <li><span>Entrega</span><span>Por medio de un link</span></li>
+                                    </ul>
+                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
                                 </div>
                             </div>
                             <div class="col-xl-4 col-lg-6 col-md-6">
                                 <div class="pricing-single">
                                     <div class="pricing-header">
-                                        <span>Studio Portrait</span>
-                                        <h2> <sup>$</sup> 1,990</h2>
+                                        <h3>Paquete 3 - Memorias </span>
+                                            <!-- <h2> <sup>$</sup> 2990</h2> -->
                                     </div>
                                     <ul class="pricing-feature-list">
-                                        <li><span>Time</span><span>2 Hours</span></li>
-                                        <li><span>Package</span><span>Up To 50 Photo</span></li>
-                                        <li><span>Video</span><span>Up To 03</span></li>
-                                        <li><span>Photo Edit</span><span>Free</span></li>
-                                        <li><span>Delivery</span><span>2-3 Months</span></li>
+                                        <li><span>Duración</span><span>8 horas</span></li>
+                                        <li><span>Paquete</span><span>100 Fotos retoque profesional</span></li>
+                                        <li><span>Extra</span><span>50 Fotos impresas 6x8</span></li>
+                                        <li><span>Extra</span><span>Caja de fotografías con portada impresa 6x8”</span></li>
+                                        <li><span>Extra</span><span>1 libro de fotografía, portada pasta dura (7 hojas, 14 pág.)</span></li>
+                                        <li><span>Sesión</span><span>Pre-boda, ceremonia, recién casados y salón de evento</span></li>
+                                        <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
+                                        <li><span>Entrega</span><span>Por medio de un link</span></li>
                                     </ul>
-                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">Appointment Now</a>
+                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
                                 </div>
                             </div>
+
+
                             <div class="col-xl-4 col-lg-6 col-md-6">
                                 <div class="pricing-single">
                                     <div class="pricing-header">
-                                        <span>Fashion </span>
-                                        <h2> <sup>$</sup> 4,990</h2>
+                                        <h3>Paquete 4 - Cristal </span>
+                                            <!-- <h2> <sup>$</sup> 2990</h2> -->
                                     </div>
                                     <ul class="pricing-feature-list">
-                                        <li><span>Time</span><span>3 Hours</span></li>
-                                        <li><span>Package</span><span>300+ Photo</span></li>
-                                        <li><span>Video</span><span>Up To 07</span></li>
-                                        <li><span>Photo Edit</span><span>Free</span></li>
-                                        <li><span>Delivery</span><span>5-6 Areas</span></li>
+                                        <li><span>Duración</span><span>8 horas</span></li>
+                                        <li><span>Paquete</span><span>100 Fotos retoque profesional</span></li>
+                                        <li><span>Extra</span><span>50 Fotos impresas 6x8</span></li>
+                                        <li><span>Extra</span><span>Caja de fotografías con portada impresa 6x8”</span></li>
+                                        <li><span>Extra</span><span>1 libro de fotografía, portada pasta dura (7 hojas, 14 pág.)</span></li>
+                                        <li><span>Extra</span><span>1 cuadro fino de madera tamaño 28x40 cm</span></li>
+                                        <li><span>Sesión</span><span>Pre-boda, ceremonia, recién casados y salón de evento</span></li>
+                                        <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
+                                        <li><span>Entrega</span><span>Por medio de un link</span></li>
                                     </ul>
-                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">Appointment Now</a>
+                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
+                                </div>
+                            </div>
+
+
+                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                <div class="pricing-single">
+                                    <div class="pricing-header">
+                                        <h3>Paquete 5 - Diamante </span>
+                                            <!-- <h2> <sup>$</sup> 2990</h2> -->
+                                    </div>
+                                    <ul class="pricing-feature-list">
+                                        <li><span>Duración</span><span>8 horas</span></li>
+                                        <li><span>Paquete</span><span>100 Fotos retoque profesional</span></li>
+                                        <li><span>Extra</span><span>50 Fotos impresas 6x8</span></li>
+                                        <li><span>Extra</span><span>Caja de fotografías con portada impresa 6x8”</span></li>
+                                        <li><span>Extra</span><span>1 libro de fotografía, portada pasta dura (7 hojas, 14 pág.)</span></li>
+                                        <li><span>Extra</span><span>1 cuadro fino de madera tamaño 40x60 cm</span></li>
+                                        <li><span>Sesión</span><span>Pre-boda, ceremonia, recién casados y salón de evento</span></li>
+                                        <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
+                                        <li><span>Entrega</span><span>Por medio de un link</span></li>
+                                    </ul>
+                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
+                                </div>
+                            </div>
+
+
+                            <div class="col-xl-4 col-lg-6 col-md-6">
+                                <div class="pricing-single">
+                                    <div class="pricing-header">
+                                        <h3>Paquete 6 - Platino </span>
+                                            <!-- <h2> <sup>$</sup> 2990</h2> -->
+                                    </div>
+                                    <ul class="pricing-feature-list">
+                                        <li><span>Duración</span><span>8 horas</span></li>
+                                        <li><span>Paquete</span><span>100 Fotos retoque profesional</span></li>
+                                        <li><span>Extra</span><span>50 Fotos impresas 6x8</span></li>
+                                        <li><span>Extra</span><span>Caja de fotografías con portada impresa</span></li>
+                                        <li><span>Extra</span><span>1 libro de fotografía, portada acrílico (15 hojas, 30 pág.)</span></li>
+                                        <li><span>Extra</span><span>1 cuadro fino de madera tamaño 40x60 cm</span></li>
+                                        <li><span>Sesión</span><span>Pre-boda, ceremonia, recién casados y salón de evento</span></li>
+                                        <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
+                                        <li><span>Entrega</span><span>Por medio de un link</span></li>
+                                    </ul>
+                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
                                 </div>
                             </div>
                         </div>
