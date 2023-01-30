@@ -123,8 +123,8 @@
             <li class="menu-item-has-children">
                 <a href="">Ver paquetes <i class="bx bxs-circle dropdown-icon"></i></a>
                 <ul class="submenu">
-                    <li><a href="/pricing.php">Fotografía</a></li>
-                    <li><a href="/pricing_video.php">Video</a></li>
+                    <li><a href="/pricing">Fotografía</a></li>
+                    <li><a href="/pricing_video">Video</a></li>
                 </ul>
             </li>
             <li>
