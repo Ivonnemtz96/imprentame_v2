@@ -32,7 +32,7 @@
         <div class="row align-items-center g-4">
             <div class="col-lg-6">
                 <div class="about-us-image">
-                    <img src="/assets/images/bg/about-us1.png" alt="image">
+                    <img src="/assets/images/bg/about-us1.webp" alt="image">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -108,8 +108,8 @@
                 <div class="about-image-group d-flex flex-row
                             flex-nowrap justify-content-lg-start
                             justify-content-center">
-                    <img src="/assets/images/bg/about-us2.png" alt="image">
-                    <img src="/assets/images/bg/about-us3.png" class="d-xxl-block d-none" alt="image">
+                    <img src="/assets/images/bg/about-us2.webp" alt="image">
+                    <img src="/assets/images/bg/about-us3.webp" class="d-xxl-block d-none" alt="image">
                 </div>
             </div>
         </div>

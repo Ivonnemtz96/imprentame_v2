@@ -47,7 +47,7 @@
         <div class="row grid gy-4 mb-40 justify-content-center">
             <div class="col-lg-4 col-md-6 col-sm-10 grid-item wedding">
                 <div class="portfolio-single-two magnetic-item">
-                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-1.png" alt="image" />
+                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-1.webp" alt="image" />
                     <div class="content">
                         <h3>
                             <a data-cursor="View<br>Details" href="portfolio-details.html">Bodas playa</a>
@@ -58,7 +58,7 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-10 grid-item Wedding Fashion">
                 <div class="portfolio-single-two magnetic-item">
-                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-3.png" alt="image" />
+                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-3.webp" alt="image" />
                     <div class="content">
                         <h3>
                             <a data-cursor="View<br>Details" href="portfolio-details.html">Bodas religiosas</a>
@@ -69,7 +69,7 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-10 grid-item Lifestyle">
                 <div class="portfolio-single-two magnetic-item">
-                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-4.png" alt="image" />
+                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-4.webp" alt="image" />
                     <div class="content">
                         <h3>
                             <a data-cursor="View<br>Details" href="portfolio-details.html">XV años</a>
@@ -80,7 +80,7 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-10 grid-item Lifestyle Nature Wedding">
                 <div class="portfolio-single-two magnetic-item">
-                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-6.png" alt="image" />
+                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-6.webp" alt="image" />
                     <div class="content">
                         <h3>
                             <a data-cursor="View<br>Details" href="portfolio-details.html">Sesión Salón</a>
@@ -91,7 +91,7 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-10 grid-item Lifestyle">
                 <div class="portfolio-single-two magnetic-item">
-                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-2.png" alt="image" />
+                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-2.webp" alt="image" />
                     <div class="content">
                         <h3>
                             <a data-cursor="View<br>Details" href="portfolio-details.html">Productos</a>
@@ -102,7 +102,7 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-10 grid-item Wedding Nature">
                 <div class="portfolio-single-two magnetic-item">
-                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-5.png" alt="image" />
+                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-5.webp" alt="image" />
                     <div class="content">
                         <h3>
                             <a data-cursor="View<br>Details" href="portfolio-details.html">Bebés</a>
@@ -113,7 +113,7 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-10 grid-item Nature">
                 <div class="portfolio-single-two magnetic-item">
-                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-8.png" alt="image" />
+                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-8.webp" alt="image" />
                     <div class="content">
                         <h3>
                             <a data-cursor="View<br>Details" href="portfolio-details.html">Embarazo</a>
@@ -124,7 +124,7 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-10 grid-item Lifestyle Nature Wedding">
                 <div class="portfolio-single-two magnetic-item">
-                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-7.png" alt="image" />
+                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-7.webp" alt="image" />
                     <div class="content">
                         <h3>
                             <a data-cursor="View<br>Details" href="portfolio-details.html">Restauraciones</a>
@@ -135,7 +135,7 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-10 grid-item Lifestyle Wedding Nature">
                 <div class="portfolio-single-two magnetic-item">
-                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-9.png" alt="image" />
+                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-9.webp" alt="image" />
                     <div class="content">
                         <h3>
                             <a data-cursor="View<br>Details" href="portfolio-details.html">Eventos</a>
