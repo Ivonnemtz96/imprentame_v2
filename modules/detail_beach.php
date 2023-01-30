@@ -25,7 +25,7 @@
 <div class="portfolio-detaisl-section bg-color2">
     <div class="container-fluid">
         <div class="portfolio-details-image mb-60">
-            <img src="/assets/images/portfolio/portfolio-details-img.png" alt="image">
+            <img src="/assets/images/portfolio/boda_playa.webp" alt="image">
         </div>
     </div>
     <div class="container">
