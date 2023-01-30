@@ -3,7 +3,7 @@
     <div class="grid-two style-two">
         <div class="grid-item">
             <div class="portfolio-single-one style-three magnetic-item">
-                <img src="assets/images/portfolio/port-mason1.png" alt="image" />
+                <img src="assets/images/portfolio/port-mason1.webp" alt="image" />
                 <div class="overlay">
                     <div class="content">
                         <h3>
@@ -16,7 +16,7 @@
         </div>
         <div class="grid-item grid-item--width2">
             <div class="portfolio-single-one style-three magnetic-item">
-                <img src="assets/images/portfolio/port-mason2.png" alt="image" />
+                <img src="assets/images/portfolio/port-mason2.webp" alt="image" />
                 <div class="overlay">
                     <div class="content">
                         <h3>
@@ -29,7 +29,7 @@
         </div>
         <div class="grid-item">
             <div class="portfolio-single-one style-three magnetic-item">
-                <img src="assets/images/portfolio/port-mason3.png" alt="image" />
+                <img src="assets/images/portfolio/port-mason3.webp" alt="image" />
                 <div class="overlay">
                     <div class="content">
                         <h3>
@@ -42,7 +42,7 @@
         </div>
         <div class="grid-item">
             <div class="portfolio-single-one style-three magnetic-item">
-                <img src="assets/images/portfolio/port-mason4.png" alt="image" />
+                <img src="assets/images/portfolio/port-mason4.webp" alt="image" />
                 <div class="overlay">
                     <div class="content">
                         <h3>
@@ -55,7 +55,7 @@
         </div>
         <div class="grid-item">
             <div class="portfolio-single-one style-three magnetic-item">
-                <img src="assets/images/portfolio/port-mason5.png" alt="image" />
+                <img src="assets/images/portfolio/port-mason5.webp" alt="image" />
                 <div class="overlay">
                     <div class="content">
                         <h3>
@@ -68,7 +68,7 @@
         </div>
         <div class="grid-item">
             <div class="portfolio-single-one style-three magnetic-item">
-                <img src="assets/images/portfolio/port-mason6.png" alt="image" />
+                <img src="assets/images/portfolio/port-mason6.webp?=1" alt="image" />
                 <div class="overlay">
                     <div class="content">
                         <h3>
@@ -81,7 +81,7 @@
         </div>
         <div class="grid-item">
             <div class="portfolio-single-one style-three magnetic-item">
-                <img src="assets/images/portfolio/port-mason7.png" alt="image" />
+                <img src="assets/images/portfolio/port-mason7.webp" alt="image" />
                 <div class="overlay">
                     <div class="content">
                         <h3>
@@ -94,7 +94,7 @@
         </div>
         <div class="grid-item">
             <div class="portfolio-single-one style-three magnetic-item">
-                <img src="assets/images/portfolio/port-mason8.png" alt="image" />
+                <img src="assets/images/portfolio/port-mason8.webp?=1" alt="image" />
                 <div class="overlay">
                     <div class="content">
                         <h3>
@@ -107,7 +107,7 @@
         </div>
         <div class="grid-item grid-item--width2">
             <div class="portfolio-single-one style-three magnetic-item">
-                <img src="assets/images/portfolio/port-mason9.png" alt="image" />
+                <img src="assets/images/portfolio/port-mason9.web" alt="image" />
                 <div class="overlay">
                     <div class="content">
                         <h3>
@@ -120,7 +120,7 @@
         </div>
         <div class="grid-item">
             <div class="portfolio-single-one style-three magnetic-item">
-                <img src="assets/images/portfolio/port-mason10.png" alt="image" />
+                <img src="assets/images/portfolio/port-mason10.webp?=1" alt="image" />
                 <div class="overlay">
                     <div class="content">
                         <h3>
@@ -133,7 +133,7 @@
         </div>
         <div class="grid-item">
             <div class="portfolio-single-one style-three magnetic-item">
-                <img src="assets/images/portfolio/port-mason11.png" alt="image" />
+                <img src="assets/images/portfolio/port-mason11.webp" alt="image" />
                 <div class="overlay">
                     <div class="content">
                         <h3>
@@ -146,7 +146,7 @@
         </div>
         <div class="grid-item">
             <div class="portfolio-single-one style-three magnetic-item">
-                <img src="assets/images/portfolio/port-mason12.png" alt="image" />
+                <img src="assets/images/portfolio/port-mason12.webp?=1" alt="image" />
                 <div class="overlay">
                     <div class="content">
                         <h3>
@@ -159,7 +159,7 @@
         </div>
         <div class="grid-item">
             <div class="portfolio-single-one style-three magnetic-item">
-                <img src="assets/images/portfolio/port-mason13.png" alt="image" />
+                <img src="assets/images/portfolio/port-mason13.webp" alt="image" />
                 <div class="overlay">
                     <div class="content">
                         <h3>
