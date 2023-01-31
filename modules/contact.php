@@ -29,7 +29,7 @@
             <div class="col-xl-5 col-lg-6 col-md-6 col-sm-10">
                 <div class="address-block">
                     <h4>Teléfono :</h4>
-                    <a href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">+52 624 157 4530</a>
+                    <a target="_blank" href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">+52 624 157 4530</a>
                 </div>
                 <div class="address-block">
                     <h4>Address :</h4>
@@ -37,17 +37,17 @@
                 </div>
                 <div class="address-block">
                     <h4>Email :</h4>
-                    <a href="hmailto:hola@imprentame.com">hola@imprentame.com</a>
+                    <a target="_blank" href="hmailto:hola@imprentame.com">hola@imprentame.com</a>
                 </div>
                 <div class="address-block">
                     <h4>Social :</h4>
                     <ul class="social-one justify-content-start mt-3">
                         <li><img src="/assets/images/icons/instagram.svg" alt="image">
-                            <a href="https://www.instagram.com/">IN</a>
+                            <a target="_blank" href="https://www.instagram.com/imprentame_oficial/">IN</a>
                         </li>
                         <li>
-                            <img src="/assets/images/icons/Twitter.svg" alt="image">
-                            <a href="https://www.twitter.com/">TW</a>
+                            <img src="/assets/images/icons/fb.svg" alt="image">
+                            <a target="_blank" href="https://www.facebook.com/imprentame">FB</a>
                         </li>
                     </ul>
                 </div>
