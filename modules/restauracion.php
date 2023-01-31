@@ -138,7 +138,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-4 col-4 d-sm-block d-none text-center">
-                    <h4>Portfolio</h4>
+                    <h4>Portafolio</h4>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-4 col-6">
                     <div class="arrow-prev text-start">
