@@ -5,8 +5,8 @@
                 <h2 class="bread-crumb-title">FAQ</h2>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb gap-3 m-0 p-0">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">FAQ</li>
+                        <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Preguntas frecuentes</li>
                     </ol>
                 </nav>
             </div>
@@ -26,38 +26,39 @@
         <div class="row justify-content-center">
             <div class="col-xl-5 col-lg-6 col-md-10 order-lg-1 order-2">
                 <div class="faq-block">
-                    <h2>Q&A</h2>
-                    <p>Donec bibendum enim ut elit porta ullamcorper. Vestibulum Naitor quam nulla gonr venenatis eget
-                        dapibus ac,</p>
+                    <h2>FAQs</h2>
+                    <p>
+                        Estas son las preguntas más frecuentes entre nuestros clientes
+                    </p>
                     <ul class="nav nav-tabs qa-tag-list" role="tablist">
                         <li class="nav-item" role="presentation">
                             <a class="nav-link active" data-bs-toggle="tab" href="#tab-one" aria-selected="false"
                                 role="tab" tabindex="-1">
-                                <img src="/assets/images/icons/list-cicle.svg" alt="image">Artist
+                                <img src="/assets/images/icons/list-cicle.svg" alt="image">Foto
                             </a>
                         </li>
                         <li class="nav-item" role="presentation">
                             <a class="nav-link" data-bs-toggle="tab" href="#tab-two" aria-selected="false" role="tab">
-                                <img src="/assets/images/icons/list-cicle.svg" alt="image">Portfolio
+                                <img src="/assets/images/icons/list-cicle.svg" alt="image">Video
                             </a>
                         </li>
                         <li class="nav-item" role="presentation">
                             <a class="nav-link" data-bs-toggle="tab" href="#tab-three" aria-selected="false" role="tab">
-                                <img src="/assets/images/icons/list-cicle.svg" alt="image">Crypto
+                                <img src="/assets/images/icons/list-cicle.svg" alt="image">Sesiones Boda
                             </a>
                         </li>
                         <li class="nav-item" role="presentation">
                             <a class="nav-link" data-bs-toggle="tab" href="#tab-four" aria-selected="false" role="tab">
-                                <img src="/assets/images/icons/list-cicle.svg" alt="image">Digital Token
+                                <img src="/assets/images/icons/list-cicle.svg" alt="image">Sesiones XV
                             </a>
                         </li>
                         <li class="nav-item" role="presentation">
                             <a class="nav-link" data-bs-toggle="tab" href="#tab-five" aria-selected="false" role="tab">
-                                <img src="/assets/images/icons/list-cicle.svg" alt="image">Blockchain NFT
+                                <img src="/assets/images/icons/list-cicle.svg" alt="image">Cuadros
                             </a>
                         </li>
                     </ul>
-                    <h4>Social Media</h4>
+                    <h4>Síguenos en nuestras redes</h4>
                     <ul class="social-one justify-content-start">
                         <li><img src="/assets/images/icons/instagram.svg" alt="image">
                             <a href="https://www.instagram.com/">IN</a>
@@ -65,14 +66,14 @@
                         <li><img src="/assets/images/icons/dribbble.svg" alt="image">
                             <a href="https://www.dribbble.com/">DB</a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <img src="/assets/images/icons/pinterest.svg" alt="image">
                             <a href="https://www.pinterest.com/">PI</a>
                         </li>
                         <li>
                             <img src="/assets/images/icons/Twitter.svg" alt="image">
                             <a href="https://www.twitter.com/">TW</a>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </div>
@@ -86,7 +87,7 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true"
                                             aria-controls="collapseOne">
-                                            01. Curious about how to build your own UX strategy?
+                                            01. Pregunta 1
                                         </button>
                                     </h2>
                                     <div id="collapseOne" class="accordion-collapse collapse"
@@ -108,7 +109,7 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                             aria-expanded="false" aria-controls="collapseTwo">
-                                            02. Where Could a Career in UX Take You? Agency vs. In-House ?
+                                            02.Pregunta 2
                                         </button>
                                     </h2>
                                     <div id="collapseTwo" class="accordion-collapse collapse"
@@ -130,7 +131,7 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                             aria-expanded="false" aria-controls="collapseThree">
-                                            03. What Is a Problem Statement in UX? (And How To Write One)?
+                                            03. Pregunta 3
                                         </button>
                                     </h2>
                                     <div id="collapseThree" class="accordion-collapse collapse"
@@ -152,7 +153,7 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                             aria-expanded="false" aria-controls="collapseFour">
-                                            04. There are several techniques UX designers employ to arrive?
+                                            04. Pregunta 4
                                         </button>
                                     </h2>
                                     <div id="collapseFour" class="accordion-collapse collapse"
@@ -174,7 +175,7 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                             aria-expanded="false" aria-controls="collapseFive">
-                                            05. What are the users are facing? What are they trying to?
+                                            05. Pregunta 5
                                         </button>
                                     </h2>
                                     <div id="collapseFive" class="accordion-collapse collapse"
@@ -203,7 +204,7 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseSix"
                                             aria-expanded="false" aria-controls="collapseSix">
-                                            02. Where Could a Career in UX Take You? Agency vs. In-House ?
+                                            02. Pregunta 2
                                         </button>
                                     </h2>
                                     <div id="collapseSix" class="accordion-collapse collapse"
@@ -225,7 +226,7 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseSeven"
                                             aria-expanded="false" aria-controls="collapseSeven">
-                                            03. What Is a Problem Statement in UX? (And How To Write One)?
+                                            03. Pregunta 3
                                         </button>
                                     </h2>
                                     <div id="collapseSeven" class="accordion-collapse collapse"
@@ -247,7 +248,7 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseEight"
                                             aria-expanded="false" aria-controls="collapseEight">
-                                            04. There are several techniques UX designers employ to arrive?
+                                            04. Pregunta 4
                                         </button>
                                     </h2>
                                     <div id="collapseEight" class="accordion-collapse collapse"
@@ -269,7 +270,7 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseNine"
                                             aria-expanded="false" aria-controls="collapseNine">
-                                            05. What are the users are facing? What are they trying to?
+                                            05. Pregunta 5
                                         </button>
                                     </h2>
                                     <div id="collapseNine" class="accordion-collapse collapse"
@@ -298,7 +299,7 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseTen"
                                             aria-expanded="false" aria-controls="collapseTen">
-                                            03. What Is a Problem Statement in UX? (And How To Write One)?
+                                            03. Pregunta 3
                                         </button>
                                     </h2>
                                     <div id="collapseTen" class="accordion-collapse collapse"
@@ -320,7 +321,7 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseEleven"
                                             aria-expanded="false" aria-controls="collapseEleven">
-                                            04. There are several techniques UX designers employ to arrive?
+                                            04. Pregunta 4
                                         </button>
                                     </h2>
                                     <div id="collapseEleven" class="accordion-collapse collapse"
@@ -342,7 +343,7 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseTwelve"
                                             aria-expanded="false" aria-controls="collapseTwelve">
-                                            05. What are the users are facing? What are they trying to?
+                                            05. Pregunta 5
                                         </button>
                                     </h2>
                                     <div id="collapseTwelve" class="accordion-collapse collapse"
@@ -371,7 +372,7 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseThirteen"
                                             aria-expanded="false" aria-controls="collapseThirteen">
-                                            04. There are several techniques UX designers employ to arrive?
+                                            04. Pregunta 4
                                         </button>
                                     </h2>
                                     <div id="collapseThirteen" class="accordion-collapse collapse"
@@ -393,7 +394,7 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseFourteen"
                                             aria-expanded="false" aria-controls="collapseFourteen">
-                                            03. What Is a Problem Statement in UX? (And How To Write One)?
+                                            03. Pregunta 3
                                         </button>
                                     </h2>
                                     <div id="collapseFourteen" class="accordion-collapse collapse"
@@ -415,7 +416,7 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseFifteen"
                                             aria-expanded="false" aria-controls="collapseFifteen">
-                                            05. What are the users are facing? What are they trying to?
+                                            05. Pregunta 5
                                         </button>
                                     </h2>
                                     <div id="collapseFifteen" class="accordion-collapse collapse"
@@ -444,7 +445,7 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseSixteen"
                                             aria-expanded="false" aria-controls="collapseSixteen">
-                                            05. What are the users are facing? What are they trying to?
+                                            05. Pregunta 5
                                         </button>
                                     </h2>
                                     <div id="collapseSixteen" class="accordion-collapse collapse"
@@ -466,7 +467,7 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseSeventeen"
                                             aria-expanded="false" aria-controls="collapseSeventeen">
-                                            04. There are several techniques UX designers employ to arrive?
+                                            04. Pregunta 4
                                         </button>
                                     </h2>
                                     <div id="collapseSeventeen" class="accordion-collapse collapse"
@@ -488,7 +489,7 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseEighteen"
                                             aria-expanded="false" aria-controls="collapseEighteen">
-                                            03. What Is a Problem Statement in UX? (And How To Write One)?
+                                            03. Pregunta 3
                                         </button>
                                     </h2>
                                     <div id="collapseEighteen" class="accordion-collapse collapse"
