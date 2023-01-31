@@ -25,63 +25,84 @@
     <div class="container-fluid">
         <div class="row align-items-center justify-content-center g-0">
             <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
-                <a href="/assets/images/gallery/gallery1-1big.png" class="gallery-img" data-fancybox="gallery">
-                    <img class="img-fluid" src="/assets/images/gallery/gallery1-1.png" alt="image">
+                <a href="/assets/images/gallery/1-1.webp" class="gallery-img" data-fancybox="gallery">
+                    <img class="img-fluid" src="/assets/images/gallery/1.webp" alt="image">
                 </a>
             </div>
             <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
-                <a href="/assets/images/gallery/gallery1-2big.png" class="gallery-img" data-fancybox="gallery">
-                    <img class="img-fluid" src="/assets/images/gallery/gallery1-2.png" alt="image">
+                <a href="/assets/images/gallery/12-2.webp" class="gallery-img" data-fancybox="gallery">
+                    <img class="img-fluid" src="/assets/images/gallery/12-1.webp" alt="image">
                 </a>
             </div>
             <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
-                <a href="/assets/images/gallery/gallery1-3big.png" class="gallery-img" data-fancybox="gallery">
-                    <img class="img-fluid" src="/assets/images/gallery/gallery1-3.png" alt="image">
+                <a href="/assets/images/gallery/3-2.webp" class="gallery-img" data-fancybox="gallery">
+                    <img class="img-fluid" src="/assets/images/gallery/3-1.webp" alt="image">
                 </a>
             </div>
             <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
-                <a href="/assets/images/gallery/gallery1-5big.png" class="gallery-img" data-fancybox="gallery">
-                    <img class="img-fluid" src="/assets/images/gallery/gallery1-5.png" alt="image">
+                <a href="/assets/images/gallery/4-2.webp" class="gallery-img" data-fancybox="gallery">
+                    <img class="img-fluid" src="/assets/images/gallery/4-1.webp" alt="image">
                 </a>
             </div>
             <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
-                <a href="/assets/images/gallery/gallery1-4big.png" class="gallery-img" data-fancybox="gallery">
-                    <img class="img-fluid" src="/assets/images/gallery/gallery1-4.png" alt="image">
+                <a href="/assets/images/gallery/9-2.webp" class="gallery-img" data-fancybox="gallery">
+                    <img class="img-fluid" src="/assets/images/gallery/9-1.webp" alt="image">
                 </a>
             </div>
             <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
-                <a href="/assets/images/gallery/gallery1-6big.png" class="gallery-img" data-fancybox="gallery">
-                    <img class="img-fluid" src="/assets/images/gallery/gallery1-6.png" alt="image">
+                <a href="/assets/images/gallery/6-2.webp" class="gallery-img" data-fancybox="gallery">
+                    <img class="img-fluid" src="/assets/images/gallery/6-1.webp" alt="image">
                 </a>
             </div>
             <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
-                <a href="/assets/images/gallery/gallery1-7big.png" class="gallery-img" data-fancybox="gallery">
-                    <img class="img-fluid" src="/assets/images/gallery/gallery1-7.png" alt="image">
+                <a href="/assets/images/gallery/7-2.webp" class="gallery-img" data-fancybox="gallery">
+                    <img class="img-fluid" src="/assets/images/gallery/7-1.webp" alt="image">
                 </a>
             </div>
             <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
-                <a href="/assets/images/gallery/gallery1-8big.png" class="gallery-img" data-fancybox="gallery">
-                    <img class="img-fluid" src="/assets/images/gallery/gallery1-8.png" alt="image">
+                <a href="/assets/images/gallery/8-2.webp" class="gallery-img" data-fancybox="gallery">
+                    <img class="img-fluid" src="/assets/images/gallery/8-1.webp" alt="image">
                 </a>
             </div>
             <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
-                <a href="/assets/images/gallery/gallery1-9big.png" class="gallery-img" data-fancybox="gallery">
-                    <img class="img-fluid" src="/assets/images/gallery/gallery1-9.png" alt="image">
+                <a href="/assets/images/gallery/5-2.webp" class="gallery-img" data-fancybox="gallery">
+                    <img class="img-fluid" src="/assets/images/gallery/5-1.webp" alt="image">
                 </a>
             </div>
             <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
-                <a href="/assets/images/gallery/gallery1-10big.png" class="gallery-img" data-fancybox="gallery">
-                    <img class="img-fluid" src="/assets/images/gallery/gallery1-10.png" alt="image">
+                <a href="/assets/images/gallery/10-2.webp" class="gallery-img" data-fancybox="gallery">
+                    <img class="img-fluid" src="/assets/images/gallery/10-1.webp" alt="image">
                 </a>
             </div>
             <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
-                <a href="/assets/images/gallery/gallery1-11big.png" class="gallery-img" data-fancybox="gallery">
-                    <img class="img-fluid" src="/assets/images/gallery/gallery1-11.png" alt="image">
+                <a href="/assets/images/gallery/11-2.webp" class="gallery-img" data-fancybox="gallery">
+                    <img class="img-fluid" src="/assets/images/gallery/11-1.webp" alt="image">
                 </a>
             </div>
             <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
-                <a href="/assets/images/gallery/gallery1-12big.png" class="gallery-img" data-fancybox="gallery">
-                    <img class="img-fluid" src="/assets/images/gallery/gallery1-12.png" alt="image">
+                <a href="/assets/images/gallery/12-2.webp" class="gallery-img" data-fancybox="gallery">
+                    <img class="img-fluid" src="/assets/images/gallery/12-1.webp" alt="image">
+                </a>
+            </div>
+
+            <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
+                <a href="/assets/images/gallery/13-2.webp" class="gallery-img" data-fancybox="gallery">
+                    <img class="img-fluid" src="/assets/images/gallery/13-1.webp" alt="image">
+                </a>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
+                <a href="/assets/images/gallery/14-2.webp" class="gallery-img" data-fancybox="gallery">
+                    <img class="img-fluid" src="/assets/images/gallery/14-1.webp" alt="image">
+                </a>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
+                <a href="/assets/images/gallery/15-2.webp" class="gallery-img" data-fancybox="gallery">
+                    <img class="img-fluid" src="/assets/images/gallery/15-1.webp" alt="image">
+                </a>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
+                <a href="/assets/images/gallery/16-2.webp" class="gallery-img" data-fancybox="gallery">
+                    <img class="img-fluid" src="/assets/images/gallery/16-1.webp" alt="image">
                 </a>
             </div>
         </div>
