@@ -31,14 +31,14 @@
                     </div>
                     <div class="service-content">
                         <img src="/assets/images/icons/service-icon1.svg" alt="image">
-                        <h3><a href="#">Restauraciones</a></h3>
+                        <h3><a href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">Restauraciones</a></h3>
                         <p>
                             El retoque fotográfico puede ser sumamente minucioso, el dominar el pincel digital, jugar
                             con las luces y sombras, dar color por diferentes zonas de la imagen, agregar brillo y
                             textura en la piel, dominar los complejos programas de edición fotografía, requiere un
                             amplio conocimiento, práctica y actualización constante.
                         </p>
-                        <a class="eg-btn btn--primary btn--lg" href="#">Contactar</a>
+                        <a class="eg-btn btn--primary btn--lg" href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">Contactar</a>
                     </div>
                 </div>
             </div>
@@ -49,13 +49,13 @@
                     </div>
                     <div class="service-content">
                         <img src="/assets/images/icons/service-icon2.svg" alt="image">
-                        <h3><a href="#">Bebés</a></h3>
+                        <h3><a href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">Bebés</a></h3>
                         <p>
                             El fondo en cada foto y/o video importa mucho. Realzará la belleza y transmite magia en cada
                             fotografía y/o escena. Ese lugar puede muy importante en una sesión, por nos coordinaremos
                             previamente para elegir en conjunto contigo, el lugar perfecto para tu sesión
                         </p>
-                        <a class="eg-btn btn--primary btn--lg" href="#">Contactar</a>
+                        <a class="eg-btn btn--primary btn--lg" href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">Contactar</a>
                     </div>
                 </div>
             </div>
@@ -66,11 +66,11 @@
                     </div>
                     <div class="service-content">
                         <img src="/assets/images/icons/service-icon3.svg" alt="image">
-                        <h3><a href="#">Productos</a></h3>
+                        <h3><a href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">Productos</a></h3>
                         <p>
                         Utilizamos las últimas versiones de software de edición, como son Photoshop, Lightroom, Premier, After Effects. Manejamos cámaras y lentes de la marca Nikon.
                         </p>
-                        <a class="eg-btn btn--primary btn--lg" href="#">Contactar</a>
+                        <a class="eg-btn btn--primary btn--lg" href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">Contactar</a>
                     </div>
                 </div>
             </div>
@@ -81,28 +81,14 @@
                     </div>
                     <div class="service-content">
                         <img src="/assets/images/icons/service-icon4.svg" alt="image">
-                        <h3><a href="#">Embarazos</a></h3>
+                        <h3><a href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">Embarazos</a></h3>
                         <p>
                         Hay ciertos momentos en la vida que quieres hacer inmortales. Quieres vivir en esos momentos para siempre. Tu embarazoa es uno de los momentos especiales.Conmigo obtendrás una ganancia de las fotografías y videos que guardaran los momentos y cuando mira hacia atrás, viajaras con tu mente a esos recuerdos memorables.
 
                         </p>
-                        <a class="eg-btn btn--primary btn--lg" href="#">Contactar</a>
+                        <a class="eg-btn btn--primary btn--lg" href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">Contactar</a>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-<div class="pricing-section pt-120 pb-120 mb-44">
-    <div class="container">
-
-        <div class="row gy-5 justify-content-center text-center">
-            <div class="col-md-10">
-
-                <a class="eg-btn btn--primary btn--lg" href="booking.html">Contactar</a>
-
             </div>
         </div>
     </div>
