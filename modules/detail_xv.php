@@ -127,8 +127,8 @@
             <div class="row align-items-center">
                 <div class="col-lg-4 col-md-4 col-sm-4 col-6">
                     <div class="arrow-prev text-end">
-                        <a href="">
-                            <span>Previous</span>
+                        <a href="/detail_photos">
+                            <span>Anterior</span>
                             <svg width="171" height="10" viewBox="0 0 171 10" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M1 5L171 4.99999" />
                                 <path d="M6 1L1 5L6 9" stroke-linecap="round" />
@@ -138,13 +138,13 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-4 col-4 d-sm-block d-none text-center">
-                    <h4>Portfolio</h4>
+                    <h4>Portafolio</h4>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-4 col-6">
                     <div class="arrow-prev text-start">
 
-                        <a href="/">
-                            <span>Next</span>
+                        <a href="/detail">
+                            <span>Siguiente</span>
                             <svg width="171" height="10" viewBox="0 0 171 10" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M0 5L170 4.99999" />
                                 <path d="M165 9L170 5L165 1" stroke-linecap="round" />
