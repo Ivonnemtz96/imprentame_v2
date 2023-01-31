@@ -100,8 +100,8 @@
                 <a href="">Arte <i class="bx bxs-circle dropdown-icon"></i></a>
                 <ul class="submenu">
                     <li><a href="">Retoque digital</a></li>
-                    <li><a href="">Marcos de madera</a></li>
-                    <li><a href="">Restauración de fotografías</a></li>
+                    <li><a href="/marcos">Marcos de madera</a></li>
+                    <li><a href="/restauraciones">Restauración de fotografías</a></li>
                 </ul>
             </li>
             <li class="menu-item-has-children">

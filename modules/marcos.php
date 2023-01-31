@@ -24,7 +24,7 @@
 <div class="portfolio-detaisl-section bg-color2">
     <div class="container-fluid">
         <div class="portfolio-details-image mb-60">
-            <img src="/assets/images/portfolio/boda_religiosa.webp" alt="image">
+            <img src="/assets/images/portfolio/marco-banner.webp" alt="image">
         </div>
     </div>
     <div class="container">
@@ -76,35 +76,35 @@
             </div>
             <div class="row g-4 justify-content-center">
                 <div class="col-lg-6">
-                    <a href="/assets/images/portfolio/port-details-1-big.webp" data-fancybox="gallery"
+                    <a href="/assets/images/portfolio/marco2.webp" data-fancybox="gallery"
                         data-cursor="View Gallery">
-                        <img src="/assets/images/portfolio/port-details-1.webp" alt="image">
+                        <img src="/assets/images/portfolio/marco1.webp" alt="image">
                     </a>
                 </div>
                 <div class="col-lg-6">
                     <div class="row g-4">
                         <div class="col-lg-6 col-md-6 col-sm-6 col-6">
-                            <a href="/assets/images/portfolio/port-details-2-big.webp" data-fancybox="gallery"
+                            <a href="/assets/images/portfolio/marco3.webp" data-fancybox="gallery"
                                 data-cursor="View Gallery">
-                                <img src="/assets/images/portfolio/port-details-2.webp" alt="image">
+                                <img src="/assets/images/portfolio/marco4.webp" alt="image">
                             </a>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 col-6">
-                            <a href="/assets/images/portfolio/port-details-3-big.webp" data-fancybox="gallery"
+                            <a href="/assets/images/portfolio/marco6.webp" data-fancybox="gallery"
                                 data-cursor="View Gallery">
-                                <img src="/assets/images/portfolio/port-details-3.webp" alt="image">
+                                <img src="/assets/images/portfolio/marco5.webp" alt="image">
                             </a>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 col-6">
-                            <a href="/assets/images/portfolio/port-details-4-big.webp" data-fancybox="gallery"
+                            <a href="/assets/images/portfolio/marco8.webp" data-fancybox="gallery"
                                 data-cursor="View Gallery">
-                                <img src="/assets/images/portfolio/port-details-4.webp" alt="image">
+                                <img src="/assets/images/portfolio/marco7.webp" alt="image">
                             </a>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 col-6">
-                            <a href="/assets/images/portfolio/port-details-5-big.webp" data-fancybox="gallery"
+                            <a href="/assets/images/portfolio/marco10.webp" data-fancybox="gallery"
                                 data-cursor="View Gallery">
-                                <img src="/assets/images/portfolio/port-details-5.webp" alt="image">
+                                <img src="/assets/images/portfolio/marco9.webp" alt="image">
                             </a>
                         </div>
                     </div>
