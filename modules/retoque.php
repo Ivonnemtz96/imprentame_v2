@@ -117,6 +117,16 @@
                     different.</p>
             </div> -->
         </div>
+
+        <div class="row justify-content-center text-center mt-5">
+            <div class="col-md-12">
+                <div class="container">
+                    <a class="eg-btn btn--primary btn--lg"
+                        href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">Contactar</a>
+                </div>
+            </div>
+
+        </div>
     </div>
     <div class="container-fluid pt-120 mb-44">
         <div class="portfolio-navigation">

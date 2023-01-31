@@ -76,8 +76,7 @@
             </div>
             <div class="row g-4 justify-content-center">
                 <div class="col-lg-6">
-                    <a href="/assets/images/portfolio/marco2.webp" data-fancybox="gallery"
-                        data-cursor="View Gallery">
+                    <a href="/assets/images/portfolio/marco2.webp" data-fancybox="gallery" data-cursor="View Gallery">
                         <img src="/assets/images/portfolio/marco1.webp" alt="image">
                     </a>
                 </div>
@@ -111,14 +110,24 @@
                 </div>
             </div>
         </div>
+
+        <div class="row justify-content-center text-center mt-5">
+            <div class="col-md-12">
+                <div class="container">
+                    <a class="eg-btn btn--primary btn--lg"
+                        href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">Contactar</a>
+                </div>
+            </div>
+
+        </div>
     </div>
     <div class="container-fluid pt-120 mb-44">
         <div class="portfolio-navigation">
             <div class="row align-items-center">
                 <div class="col-lg-4 col-md-4 col-sm-4 col-6">
                     <div class="arrow-prev text-end">
-                        <a href="">
-                            <span>Previous</span>
+                        <a href="/restauraciones">
+                            <span>Anterior</span>
                             <svg width="171" height="10" viewBox="0 0 171 10" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M1 5L171 4.99999" />
                                 <path d="M6 1L1 5L6 9" stroke-linecap="round" />
@@ -133,8 +142,8 @@
                 <div class="col-lg-4 col-md-4 col-sm-4 col-6">
                     <div class="arrow-prev text-start">
 
-                        <a href="/">
-                            <span>Next</span>
+                        <a href="/video_gallery">
+                            <span>Siguiente</span>
                             <svg width="171" height="10" viewBox="0 0 171 10" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M0 5L170 4.99999" />
                                 <path d="M165 9L170 5L165 1" stroke-linecap="round" />
