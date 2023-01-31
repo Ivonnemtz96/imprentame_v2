@@ -23,11 +23,11 @@
                 <div class="footer-social d-lg-flex d-none">
                     <ul class="social-four">
                         <li>
-                            <a href="https://www.instagram.com/"><i class="bx bxl-linkedin"></i></a>
+                            <a target="_blank" href="https://www.instagram.com/imprentame_oficial/"><i class="bx bxl-instagram"></i></a>
                         </li>
                         
                         <li>
-                            <a href="https://www.twitter.com/"><i class="bx bxl-facebook"></i></a>
+                            <a target="_blank" href="https://www.facebook.com/imprentame"><i class="bx bxl-facebook"></i></a>
                         </li>
                     </ul>
                 </div>
