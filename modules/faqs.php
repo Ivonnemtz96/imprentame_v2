@@ -61,10 +61,10 @@
                     <h4>Síguenos en nuestras redes</h4>
                     <ul class="social-one justify-content-start">
                         <li><img src="/assets/images/icons/instagram.svg" alt="image">
-                            <a href="https://www.instagram.com/">IN</a>
+                            <a target="_blank" href="https://www.instagram.com/imprentame_oficial/">IN</a>
                         </li>
-                        <li><img src="/assets/images/icons/dribbble.svg" alt="image">
-                            <a href="https://www.dribbble.com/">DB</a>
+                        <li><img src="/assets/images/icons/fb.svg" alt="image">
+                            <a target="_blank" href="https://www.facebook.com/imprentame">FB</a>
                         </li>
                         <!-- <li>
                             <img src="/assets/images/icons/pinterest.svg" alt="image">
