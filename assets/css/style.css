@@ -861,7 +861,7 @@ body.tt-magic-cursor #magic-cursor {
   gap: 30px;
 }
 .main-nav-wrapper .main-nav-js::before {
-  content: "Explore Pages.";
+  content: "Explorar páginas";
   position: absolute;
   top: 45%;
   right: 10%;

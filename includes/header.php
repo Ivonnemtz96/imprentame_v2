@@ -1,7 +1,8 @@
 <header class="header-area style-1">
     <div class="container-fluid d-flex justify-content-between align-items-center">
         <div class="header-logo">
-            <a href="/"><img alt="image" class="img-fluid" style="width: 14rem;" src="/assets/images/icons/logo.png" /></a>
+            <a href="/"><img alt="image" class="img-fluid" style="width: 14rem;"
+                    src="/assets/images/icons/logo.png" /></a>
         </div>
         <ul class="menu-list">
             <!-- <li class="menu-item-has-children">
@@ -128,6 +129,9 @@
                 </ul>
             </li>
             <li>
+                <a href="/faqs">FAQs <i class="bx bxs-circle dropdown-icon"></i></a>
+            </li>
+            <li>
                 <a href="/contact">Contacto <i class="bx bxs-circle dropdown-icon"></i></a>
             </li>
 
@@ -145,42 +149,74 @@
         <div class="menu-close-btn"><i class="bi bi-x-lg"></i></div>
         <div class="mobile-logo-area d-flex justify-content-start align-items-center">
             <div class="header-logo">
-                <a href="/"><img alt="image" class="img-fluid" style="width: 14rem;" src="/assets/images/icons/logo.png" /></a>
+                <a href="/"><img alt="image" class="img-fluid" style="width: 14rem;"
+                        src="/assets/images/icons/logo.png" /></a>
             </div>
         </div>
         <div class="sidebar-menu-area">
             <ul class="menu-list">
+                <li class="menu-item">
+                    <a href="/" class="drop-down" data-hover="Inicio"> Inicio</a>
+
+                </li>
+
+                <li class="menu-item">
+                    <a href="/about" class="drop-down" data-hover="Nosotros"> Nosotros</a>
+
+                </li>
+
+                <li class="menu-item">
+                    <a href="/portfolio" class="drop-down" data-hover="Portafolio"> Portafolio</a>
+                </li>
+
                 <li class="menu-item-has-children menu-item">
-                    <a href="#" class="drop-down" data-hover="Home"> Home</a><i class="bi bi-plus dropdown-icon"></i>
+                    <a href="#" class="drop-down" data-hover="Arte"> Arte</a><i class="bi bi-plus dropdown-icon"></i>
                     <ul class="sub-menu">
-                        <li><a href="index.html">Home One</a></li>
-                        <li><a href="index2.html">Home Two</a></li>
-                        <li>
-                            <a href="index-pagination-slider.html">Home Pagination Slider</a>
-                        </li>
-                        <li><a href="index-masonary.html">Home Masonary</a></li>
-                        <li><a href="index-carousel.html">Home Carousel</a></li>
-                        <li><a href="index-portfolio.html">Home Portfolio</a></li>
-                        <li><a href="index-video.html">Home Video</a></li>
-                        <li>
-                            <a href="index-center-slider.html">Home Center Slide</a>
-                        </li>
-                        <li><a href="index-bg-image.html">Home Image Background</a></li>
-                        <li>
-                            <a href="index-fixed-sidebar.html">Home Fixed Sidebar</a>
-                        </li>
+                        <li><a href="/">Retoque digital</a></li>
+                        <li><a href="/">Marcos de Madera</a></li>
+                        <li><a href="/">Restauración de fotografías</a></li>
                     </ul>
                 </li>
+
                 <li class="menu-item-has-children menu-item">
-                    <a href="#" class="drop-down" data-hover="About"> About</a><i class="bi bi-plus dropdown-icon"></i>
+                    <a href="#" class="drop-down" data-hover="Fotografía"> Fotografía</a><i
+                        class="bi bi-plus dropdown-icon"></i>
                     <ul class="sub-menu">
-                        <li><a href="about-me.html">About Me</a></li>
-                        <li><a href="about-us.html">About Us</a></li>
+                        <li><a href="/">Bodas</a></li>
+                        <li><a href="/">XV</a></li>
                     </ul>
                 </li>
+
                 <li class="menu-item-has-children menu-item">
-                    <a href="portfolio-column-four.html" data-hover="Portfolio">
-                        Portfolio</a><i class="bi bi-plus dropdown-icon"></i>
+                    <a href="#" class="drop-down" data-hover="Video"> Video</a><i class="bi bi-plus dropdown-icon"></i>
+                    <ul class="sub-menu">
+                        <li><a href="/">Bodas</a></li>
+                        <li><a href="/">XV</a></li>
+                    </ul>
+                </li>
+
+                <li class="menu-item">
+                    <a href="/gallery" class="drop-down" data-hover="Galería"> Galería</a>
+                </li>
+
+                <li class="menu-item-has-children menu-item">
+                    <a href="#" class="drop-down" data-hover="Ver paquetes"> Ver paquetes</a><i class="bi bi-plus dropdown-icon"></i>
+                    <ul class="sub-menu">
+                        <li><a href="/pricing">Bodas</a></li>
+                        <li><a href="/pricing_video">XV</a></li>
+                    </ul>
+                </li>
+
+                <li class="menu-item">
+                    <a href="/faqs" class="drop-down" data-hover="FAQs"> FAQs</a>
+                </li>
+
+                <li class="menu-item">
+                    <a href="/contact" class="drop-down" data-hover="Contacto"> Contacto</a>
+                </li>
+
+                <!-- <li class="menu-item-has-children menu-item">
+                    <a href="portfolio-column-four.html" data-hover="Portfolio"> Portfolio</a><i class="bi bi-plus dropdown-icon"></i>
                     <ul class="sub-menu">
                         <li>
                             <a href="portfolio-column-two.html">Portfolio Grid 02</a>
@@ -196,8 +232,8 @@
                         </li>
                         <li><a href="portfolio-details.html">Portfolio Details</a></li>
                     </ul>
-                </li>
-                <li class="menu-item-has-children menu-item">
+                </li> -->
+                <!-- <li class="menu-item-has-children menu-item">
                     <a href="#" class="drop-down" data-hover="Pages"> Pages</a><i class="bi bi-plus dropdown-icon"></i>
                     <ul class="sub-menu">
                         <li>
@@ -233,14 +269,14 @@
                         <li><a href="contact-me.html">Contact Me</a></li>
                         <li><a href="contact-us.html">Contact Us</a></li>
                     </ul>
-                </li>
+                </li> -->
             </ul>
         </div>
         <div class="sidebar-social d-flex justify-content-center gap-5">
-            <a href="https://www.instagram.com/"><img src="assets/images/icons/instagram.svg" alt="image" /></a>
-            <a href="https://www.dribbble.com/"><img src="assets/images/icons/dribbble.svg" alt="image" /></a>
-            <a href="https://www.pinterest.com/"><img src="assets/images/icons/pinterest.svg" alt="image" /></a>
-            <a href="https://www.twitter.com/"><img src="assets/images/icons/Twitter.svg" alt="image" /></a>
+            <a href="https://www.instagram.com/"><img src="/assets/images/icons/instagram.svg" alt="image" /></a>
+            <a href="https://www.dribbble.com/"><img src="/assets/images/icons/dribbble.svg" alt="image" /></a>
+            <a href="https://www.pinterest.com/"><img src="/assets/images/icons/pinterest.svg" alt="image" /></a>
+            <a href="https://www.twitter.com/"><img src="/assets/images/icons/Twitter.svg" alt="image" /></a>
         </div>
     </div>
 </div>
