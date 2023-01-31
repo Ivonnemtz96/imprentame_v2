@@ -99,7 +99,7 @@
             <li class="menu-item-has-children">
                 <a href="">Arte <i class="bx bxs-circle dropdown-icon"></i></a>
                 <ul class="submenu">
-                    <li><a href="">Retoque digital</a></li>
+                    <!-- <li><a href="">Retoque digital</a></li> -->
                     <li><a href="/marcos">Marcos de madera</a></li>
                     <li><a href="/restauraciones">Restauración de fotografías</a></li>
                 </ul>
@@ -172,9 +172,9 @@
                 <li class="menu-item-has-children menu-item">
                     <a href="#" class="drop-down" data-hover="Arte"> Arte</a><i class="bi bi-plus dropdown-icon"></i>
                     <ul class="sub-menu">
-                        <li><a href="/">Retoque digital</a></li>
-                        <li><a href="/">Marcos de Madera</a></li>
-                        <li><a href="/">Restauración de fotografías</a></li>
+                        <!-- <li><a href="/">Retoque digital</a></li> -->
+                        <li><a href="/marcos">Marcos de Madera</a></li>
+                        <li><a href="/restauraciones">Restauración de fotografías</a></li>
                     </ul>
                 </li>
 
@@ -182,8 +182,8 @@
                     <a href="#" class="drop-down" data-hover="Fotografía"> Fotografía</a><i
                         class="bi bi-plus dropdown-icon"></i>
                     <ul class="sub-menu">
-                        <li><a href="/">Bodas</a></li>
-                        <li><a href="/">XV</a></li>
+                    <li><a href="/detail">Bodas</a></li>
+                    <li><a href="/detail_xv">XV Años</a></li>
                     </ul>
                 </li>
 
