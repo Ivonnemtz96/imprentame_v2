@@ -36,10 +36,11 @@
                         <!-- <li class="active" data-filter="*">Todos <span>50</span></li> -->
                         <li class="active" data-filter="*">Todos</li>
                         <li data-filter=".wedding">Bodas</li>
-                        <li data-filter=".Fashion">XV Años </li>
-                        <li data-filter=".Lifestyle">Productos</li>
-                        <li data-filter=".Nature">Restauraciones</li>
-                        <li data-filter=".Nature">Eventos</li>
+                        <li data-filter=".xv">XV Años </li>
+                        <li data-filter=".productos">Productos</li>
+                        <li data-filter=".restauraciones">Restauraciones</li>
+                        <li data-filter=".eventos">Eventos</li>
+                        <li data-filter=".baby">Bebés</li>
                     </ul>
                 </div>
             </div>
@@ -56,7 +57,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-10 grid-item Wedding Fashion">
+            <div class="col-lg-4 col-md-6 col-sm-10 grid-item Wedding">
                 <div class="portfolio-single-two magnetic-item">
                     <img class="img-fluid" src="/assets/images/portfolio/portfolio4-3.webp" alt="image" />
                     <div class="content">
@@ -67,7 +68,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-10 grid-item Lifestyle">
+            <div class="col-lg-4 col-md-6 col-sm-10 grid-item xv">
                 <div class="portfolio-single-two magnetic-item">
                     <img class="img-fluid" src="/assets/images/portfolio/portfolio4-4.webp" alt="image" />
                     <div class="content">
@@ -78,7 +79,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-10 grid-item Lifestyle Wedding Nature">
+            <div class="col-lg-4 col-md-6 col-sm-10 grid-item eventos">
                 <div class="portfolio-single-two magnetic-item">
                     <img class="img-fluid" src="/assets/images/portfolio/portfolio4-9.webp" alt="image" />
                     <div class="content">
@@ -100,7 +101,7 @@
                     </div>
                 </div>
             </div> -->
-            <div class="col-lg-4 col-md-6 col-sm-10 grid-item Lifestyle">
+            <div class="col-lg-4 col-md-6 col-sm-10 grid-item productos">
                 <div class="portfolio-single-two magnetic-item">
                     <img class="img-fluid" src="/assets/images/portfolio/portfolio4-2.webp" alt="image" />
                     <div class="content">
@@ -111,7 +112,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-10 grid-item Wedding Nature">
+            <div class="col-lg-4 col-md-6 col-sm-10 grid-item baby">
                 <div class="portfolio-single-two magnetic-item">
                     <img class="img-fluid" src="/assets/images/portfolio/portfolio4-5.webp" alt="image" />
                     <div class="content">
@@ -122,7 +123,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-10 grid-item Nature">
+            <div class="col-lg-4 col-md-6 col-sm-10 grid-item baby">
                 <div class="portfolio-single-two magnetic-item">
                     <img class="img-fluid" src="/assets/images/portfolio/portfolio4-8.webp" alt="image" />
                     <div class="content">
@@ -133,7 +134,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-10 grid-item Lifestyle Nature Wedding">
+            <div class="col-lg-4 col-md-6 col-sm-10 grid-item restauraciones">
                 <div class="portfolio-single-two magnetic-item">
                     <img class="img-fluid" src="/assets/images/portfolio/portfolio4-7.webp" alt="image" />
                     <div class="content">
