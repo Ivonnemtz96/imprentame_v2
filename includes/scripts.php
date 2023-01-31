@@ -16,3 +16,21 @@
 <script src="/assets/js/TweenMax.min.js"></script>
 <script src="/assets/js/jquery.fancybox.min.js"></script>
 <script src="/assets/js/main.js"></script>
+
+<!-- twenty-twenty -->
+<script src="/assets/js/jquery.event.move.js" type="text/javascript"></script>
+<script src="/assets/js/jquery.twentytwenty.js" type="text/javascript"></script>
+<script>
+    $(function() {
+        $("#container1").twentytwenty();
+        $("#container2").twentytwenty();
+        $("#container3").twentytwenty();
+        $("#container4").twentytwenty();
+        $("#container5").twentytwenty();
+        $("#container6").twentytwenty();
+        $("#container7").twentytwenty();
+        $("#container8").twentytwenty();
+        $("#container9").twentytwenty();
+    });
+
+</script>

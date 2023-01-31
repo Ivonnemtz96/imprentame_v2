@@ -24,4 +24,7 @@
     <link rel="stylesheet" href="/assets/css/jquery.fancybox.min.css">
 
     <link rel="stylesheet" href="/assets/css/style.css">
+
+     <!-- twenty-twenty -->
+     <link rel="stylesheet" href="/assets/css/twentytwenty.css" type="text/css" media="screen" />
 </head>
