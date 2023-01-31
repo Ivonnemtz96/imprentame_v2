@@ -54,7 +54,7 @@
                                         <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
                                         <li><span>Entrega</span><span>Por medio de un enlace</span></li>
                                     </ul>
-                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
+                                    <a class="eg-btn btn--primary btn--lg" href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">¡Contactar ahora!</a>
                                 </div>
                             </div>
 
@@ -76,7 +76,7 @@
                                         <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
                                         <li><span>Entrega</span><span>Por medio de un enlace</span></li>
                                     </ul>
-                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
+                                    <a class="eg-btn btn--primary btn--lg" href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">¡Contactar ahora!</a>
                                 </div>
                             </div>
                             <div class="col-xl-4 col-lg-6 col-md-6">
@@ -98,7 +98,7 @@
                                         <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
                                         <li><span>Entrega</span><span>Por medio de un enlace</span></li>
                                     </ul>
-                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
+                                    <a class="eg-btn btn--primary btn--lg" href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">¡Contactar ahora!</a>
                                 </div>
                             </div>
 
@@ -123,7 +123,7 @@
                                         <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
                                         <li><span>Entrega</span><span>Por medio de un enlace</span></li>
                                     </ul>
-                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
+                                    <a class="eg-btn btn--primary btn--lg" href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">¡Contactar ahora!</a>
                                 </div>
                             </div>
 
@@ -148,7 +148,7 @@
                                         <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
                                         <li><span>Entrega</span><span>Por medio de un enlace</span></li>
                                     </ul>
-                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
+                                    <a class="eg-btn btn--primary btn--lg" href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">¡Contactar ahora!</a>
                                 </div>
                             </div>
 
@@ -172,7 +172,7 @@
                                         <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
                                         <li><span>Entrega</span><span>Por medio de un enlace</span></li>
                                     </ul>
-                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
+                                    <a class="eg-btn btn--primary btn--lg" href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">¡Contactar ahora!</a>
                                 </div>
                             </div>
                         </div>
@@ -194,7 +194,7 @@
                                         <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
                                         <li><span>Entrega</span><span>Por medio de un enlace</span></li>
                                     </ul>
-                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
+                                    <a class="eg-btn btn--primary btn--lg" href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">¡Contactar ahora!</a>
                                 </div>
                             </div>
 
@@ -216,7 +216,7 @@
                                         <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
                                         <li><span>Entrega</span><span>Por medio de un enlace</span></li>
                                     </ul>
-                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
+                                    <a class="eg-btn btn--primary btn--lg" href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">¡Contactar ahora!</a>
                                 </div>
                             </div>
                             <div class="col-xl-4 col-lg-6 col-md-6">
@@ -237,7 +237,7 @@
                                         <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
                                         <li><span>Entrega</span><span>Por medio de un enlace</span></li>
                                     </ul>
-                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
+                                    <a class="eg-btn btn--primary btn--lg" href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">¡Contactar ahora!</a>
                                 </div>
                             </div>
 
@@ -263,7 +263,7 @@
                                         <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
                                         <li><span>Entrega</span><span>Por medio de un enlace</span></li>
                                     </ul>
-                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
+                                    <a class="eg-btn btn--primary btn--lg" href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">¡Contactar ahora!</a>
                                 </div>
                             </div>
 
@@ -288,7 +288,7 @@
                                         <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
                                         <li><span>Entrega</span><span>Por medio de un enlace</span></li>
                                     </ul>
-                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
+                                    <a class="eg-btn btn--primary btn--lg" href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">¡Contactar ahora!</a>
                                 </div>
                             </div>
 
@@ -312,7 +312,7 @@
                                         <li><span>Edición fotográfica</span><span>Con pincel digital</span></li>
                                         <li><span>Entrega</span><span>Por medio de un enlace</span></li>
                                     </ul>
-                                    <a class="eg-btn btn--primary btn--lg" href="booking.html">¡Contactar ahora!</a>
+                                    <a class="eg-btn btn--primary btn--lg" href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">¡Contactar ahora!</a>
                                 </div>
                             </div>
                         </div>
