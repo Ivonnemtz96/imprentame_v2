@@ -107,8 +107,8 @@
             <li class="menu-item-has-children">
                 <a href="">Fotografía <i class="bx bxs-circle dropdown-icon"></i></a>
                 <ul class="submenu">
-                    <li><a href="">Bodas</a></li>
-                    <li><a href="">XV Años</a></li>
+                    <li><a href="/detail">Bodas</a></li>
+                    <li><a href="/detail_xv">XV Años</a></li>
                 </ul>
             </li>
             <li class="menu-item-has-children">
