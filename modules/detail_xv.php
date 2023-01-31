@@ -25,7 +25,7 @@
 <div class="portfolio-detaisl-section bg-color2">
     <div class="container-fluid">
         <div class="portfolio-details-image mb-60">
-            <img src="/assets/images/portfolio/portfolio-details-img.png" alt="image">
+            <img src="/assets/images/portfolio/xv.webp" alt="image">
         </div>
     </div>
     <div class="container">
@@ -78,35 +78,35 @@
             </div>
             <div class="row g-4 justify-content-center">
                 <div class="col-lg-6">
-                    <a href="/assets/images/portfolio/port-details-1-big.png" data-fancybox="gallery"
+                    <a href="/assets/images/portfolio/port-details-11-big.webp" data-fancybox="gallery"
                         data-cursor="View Gallery">
-                        <img src="/assets/images/portfolio/port-details-1.png" alt="image">
+                        <img src="/assets/images/portfolio/port-details-11.webp" alt="image">
                     </a>
                 </div>
                 <div class="col-lg-6">
                     <div class="row g-4">
                         <div class="col-lg-6 col-md-6 col-sm-6 col-6">
-                            <a href="/assets/images/portfolio/port-details-2-big.png" data-fancybox="gallery"
+                            <a href="/assets/images/portfolio/port-details-12-big.webp" data-fancybox="gallery"
                                 data-cursor="View Gallery">
-                                <img src="/assets/images/portfolio/port-details-2.png" alt="image">
+                                <img src="/assets/images/portfolio/port-details-12.webp" alt="image">
                             </a>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 col-6">
-                            <a href="/assets/images/portfolio/port-details-3-big.png" data-fancybox="gallery"
+                            <a href="/assets/images/portfolio/port-details-13-big.webp" data-fancybox="gallery"
                                 data-cursor="View Gallery">
-                                <img src="/assets/images/portfolio/port-details-3.png" alt="image">
+                                <img src="/assets/images/portfolio/port-details-13.webp" alt="image">
                             </a>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 col-6">
-                            <a href="/assets/images/portfolio/port-details-4-big.png" data-fancybox="gallery"
+                            <a href="/assets/images/portfolio/port-details-14-big.webp" data-fancybox="gallery"
                                 data-cursor="View Gallery">
-                                <img src="/assets/images/portfolio/port-details-4.png" alt="image">
+                                <img src="/assets/images/portfolio/port-details-14.webp" alt="image">
                             </a>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 col-6">
-                            <a href="/assets/images/portfolio/port-details-5-big.png" data-fancybox="gallery"
+                            <a href="/assets/images/portfolio/port-details-15-big.webp" data-fancybox="gallery"
                                 data-cursor="View Gallery">
-                                <img src="/assets/images/portfolio/port-details-5.png" alt="image">
+                                <img src="/assets/images/portfolio/port-details-15.webp" alt="image">
                             </a>
                         </div>
                     </div>
