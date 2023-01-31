@@ -1,7 +1,7 @@
 <header class="header-area style-1">
     <div class="container-fluid d-flex justify-content-between align-items-center">
         <div class="header-logo">
-            <a href="index.html"><img alt="image" class="img-fluid" src="/assets/images/bg/header-logo.svg" /></a>
+            <a href="/"><img alt="image" class="img-fluid" style="width: 14rem;" src="/assets/images/icons/logo.png" /></a>
         </div>
         <ul class="menu-list">
             <!-- <li class="menu-item-has-children">
@@ -145,7 +145,7 @@
         <div class="menu-close-btn"><i class="bi bi-x-lg"></i></div>
         <div class="mobile-logo-area d-flex justify-content-start align-items-center">
             <div class="header-logo">
-                <a href="index.html"><img alt="image" class="img-fluid" src="assets/images/bg/header-logo.svg" /></a>
+                <a href="/"><img alt="image" class="img-fluid" style="width: 14rem;" src="/assets/images/icons/logo.png" /></a>
             </div>
         </div>
         <div class="sidebar-menu-area">
