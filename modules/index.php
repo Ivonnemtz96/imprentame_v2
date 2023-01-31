@@ -1,4 +1,3 @@
-
 <div class="portfolio-masonary-section bg-color2 pb-120 mb-44">
     <div class="grid-two style-two">
         <div class="grid-item">
@@ -7,12 +6,14 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de Bodas.</a>
+                            <a data-cursor="View<br>Details" href="/detail">Fotografías de Bodas.</a>
                         </h3>
                         <span>Fotografía</span>
                     </div>
+                    
                 </div>
             </div>
+
         </div>
         <div class="grid-item grid-item--width2">
             <div class="portfolio-single-one style-three magnetic-item">
@@ -20,7 +21,7 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de XV Años.</a>
+                            <a data-cursor="View<br>Details" href="/detail_xv">Fotografías de XV Años.</a>
                         </h3>
                         <span>Fotografía</span>
                     </div>
@@ -33,7 +34,7 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de Bodas.</a>
+                            <a data-cursor="View<br>Details" href="/detail_beach">Fotografías de Bodas.</a>
                         </h3>
                         <span>Fotografía</span>
                     </div>
@@ -42,15 +43,18 @@
         </div>
         <div class="grid-item">
             <div class="portfolio-single-one style-three magnetic-item">
+
                 <img src="assets/images/portfolio/port-mason4.webp" alt="image" />
+
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de XV Años.</a>
+                            <a data-cursor="View<br>Details" href="/detail_xv">Fotografías de XV Años.</a>
                         </h3>
                         <span>Fotografía</span>
                     </div>
                 </div>
+                </a>
             </div>
         </div>
         <div class="grid-item">
@@ -59,7 +63,7 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de Bodas.</a>
+                            <a data-cursor="View<br>Details" href="/detail_beach">Fotografías de Bodas.</a>
                         </h3>
                         <span>Fotografía</span>
                     </div>
@@ -72,7 +76,7 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de XV Años.</a>
+                            <a data-cursor="View<br>Details" href="/detail_xv">Fotografías de XV Años.</a>
                         </h3>
                         <span>Fotografía</span>
                     </div>
@@ -85,7 +89,7 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de Bodas.</a>
+                            <a data-cursor="View<br>Details" href="/detail">Fotografías de Bodas.</a>
                         </h3>
                         <span>Fotografía</span>
                     </div>
@@ -98,7 +102,7 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de XV Años.</a>
+                            <a data-cursor="View<br>Details" href="/detail_xv">Fotografías de XV Años.</a>
                         </h3>
                         <span>Fotografía</span>
                     </div>
@@ -107,11 +111,11 @@
         </div>
         <div class="grid-item grid-item--width2">
             <div class="portfolio-single-one style-three magnetic-item">
-                <img src="assets/images/portfolio/port-mason9.web" alt="image" />
+                <img src="assets/images/portfolio/port-mason9.webp" alt="image" />
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de Bodas.</a>
+                            <a data-cursor="View<br>Details" href="/detail_beach">Fotografías de Bodas.</a>
                         </h3>
                         <span>Fotografía</span>
                     </div>
@@ -124,7 +128,7 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de XV Años.</a>
+                            <a data-cursor="View<br>Details" href="/detail_xv">Fotografías de XV Años.</a>
                         </h3>
                         <span>Fotografía</span>
                     </div>
@@ -137,7 +141,7 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de Bodas.</a>
+                            <a data-cursor="View<br>Details" href="/detail">Fotografías de Bodas.</a>
                         </h3>
                         <span>Fotografía</span>
                     </div>
@@ -150,7 +154,7 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de XV Años.</a>
+                            <a data-cursor="View<br>Details" href="/detail_xv">Fotografías de XV Años.</a>
                         </h3>
                         <span>Fotografía</span>
                     </div>
@@ -163,7 +167,7 @@
                 <div class="overlay">
                     <div class="content">
                         <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Fotografías de Bodas.</a>
+                            <a data-cursor="View<br>Details" href="/detail_beach">Fotografías de Bodas.</a>
                         </h3>
                         <span>Fotografía</span>
                     </div>
