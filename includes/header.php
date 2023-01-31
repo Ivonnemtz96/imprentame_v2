@@ -114,8 +114,8 @@
             <li class="menu-item-has-children">
                 <a href="">Video <i class="bx bxs-circle dropdown-icon"></i></a>
                 <ul class="submenu">
-                    <li><a href="">Bodas</a></li>
-                    <li><a href="">XV Años</a></li>
+                    <li><a href="/video_gallery">Bodas</a></li>
+                    <li><a href="/video_gallery">XV Años</a></li>
                 </ul>
             </li>
             <li>
@@ -190,8 +190,8 @@
                 <li class="menu-item-has-children menu-item">
                     <a href="#" class="drop-down" data-hover="Video"> Video</a><i class="bi bi-plus dropdown-icon"></i>
                     <ul class="sub-menu">
-                        <li><a href="/">Bodas</a></li>
-                        <li><a href="/">XV</a></li>
+                        <li><a href="/video_gallery">Bodas</a></li>
+                        <li><a href="/video_gallery">XV</a></li>
                     </ul>
                 </li>
 
