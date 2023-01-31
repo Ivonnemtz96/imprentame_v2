@@ -29,7 +29,7 @@
             <div class="col-xl-5 col-lg-6 col-md-6 col-sm-10">
                 <div class="address-block">
                     <h4>Teléfono :</h4>
-                    <a href="tel:+526241574530">+52 624 157 4530</a>
+                    <a href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">+52 624 157 4530</a>
                 </div>
                 <div class="address-block">
                     <h4>Address :</h4>
@@ -53,7 +53,7 @@
                 </div>
             </div>
             <div class="col-xl-7 col-lg-6 col-md-6 col-sm-10">
-                <h3 class="form-title">Have Any Questions</h3>
+                <h3 class="form-title">¿Tiene alguna pregunta o quiere cotizar?</h3>
                 <form class="contact-me-form">
                     <div class="row">
                         <div class="col-lg-6">
