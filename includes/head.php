@@ -2,7 +2,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PicsZen - Portfolio HTML Template</title>
+    <title>Imprentame</title>
     <link rel="icon" href="/assets/images/icons/logo-icon.svg" type="image/gif" sizes="20x20">
     <link rel="stylesheet" href="/assets/css/animate.css">
 
