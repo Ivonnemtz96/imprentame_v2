@@ -24,7 +24,18 @@
     <link rel="stylesheet" href="/assets/css/jquery.fancybox.min.css">
 
     <link rel="stylesheet" href="/assets/css/style.css">
+    <!-- Swiper CSS -->
+    <link rel="stylesheet" href="/assets/css/swipe.css">
 
      <!-- twenty-twenty -->
      <link rel="stylesheet" href="/assets/css/twentytwenty.css" type="text/css" media="screen" />
+
+     <!-- swiper -->
+     <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"
+/>
+
+
+
 </head>

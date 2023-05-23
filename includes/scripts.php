@@ -16,6 +16,32 @@
 <script src="/assets/js/TweenMax.min.js"></script>
 <script src="/assets/js/jquery.fancybox.min.js"></script>
 <script src="/assets/js/main.js"></script>
+<!-- swiper -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+<script>
+    const swiper = new Swiper('.swiper', {
+  // Optional parameters
+  direction: 'horizontal',
+  loop: true,
+
+  // If we need pagination
+  pagination: {
+    el: '.swiper-pagination',
+  },
+
+  // Navigation arrows
+  navigation: {
+    nextEl: '.swiper-button-next',
+    prevEl: '.swiper-button-prev',
+  },
+
+  // And if we need scrollbar
+  scrollbar: {
+    el: '.swiper-scrollbar',
+  },
+});
+
+</script>
 
 <!-- twenty-twenty -->
 <script src="/assets/js/jquery.event.move.js" type="text/javascript"></script>

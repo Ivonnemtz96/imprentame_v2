@@ -6,9 +6,7 @@
 
 <body class="tt-magic-cursor">
         <?php
-        include("includes/header.php");
         include("modules/index.php");
-        include("includes/footer.php");
         include("includes/scripts.php");
     ?>
 
