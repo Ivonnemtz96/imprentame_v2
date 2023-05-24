@@ -5198,7 +5198,8 @@ ul.social-four li a:hover i {
   font-size: 14px;
   font-weight: 400;
   font-family: var(--font-outfit);
-  color: var(--white);
+  /* color: var(--white); */
+  color: #333434;
 }
 .skills-bar-container li .progressbar-title h6 {
   font-weight: 400;
@@ -5224,7 +5225,8 @@ ul.social-four li a:hover i {
   position: absolute;
   width: 0%;
   height: 100%;
-  background-color: var(--white);
+  /* background-color: var(--white); */
+  background-color: #333434;
   -webkit-animation-duration: 2s;
   animation-duration: 2s;
   -webkit-animation-timing-function: ease-out;

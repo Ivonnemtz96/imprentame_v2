@@ -1,22 +1,4 @@
-<div class="bread-crumb-section style-two">
-    <div class="container">
-        <div class="row justify-content-center align-items-center">
-            <div class="col-lg-12 d-flex align-items-center
-                        flex-column">
-                <h2 class="bread-crumb-title">Acerca de Imprentame</h2>
-            </div>
-            <div class="circle-text-common circel-tex-area1
-                        circle-text-position">
-                <img src="/assets/images/icons/camera-icon.svg" alt="image">
-                <p id="CircleTypeText1" class="circle-text">SCROLL *
-                    DOWN NOW&nbsp; </p>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-<div class="about-us-section bg-color2 pt-120 pb-120" data-scroll data-scroll-speed="3">
+<div class="about-us-section pt-120 pb-120" data-scroll data-scroll-speed="3">
     <div class="container">
         <div class="row justify-content-center align-items-center mb-40
                     g-4">
@@ -25,9 +7,9 @@
                     <h2>¿Qué es Imprentame?</h2>
                 </div>
             </div>
-            <div class="col-lg-4 text-lg-end text-center">
+            <!-- <div class="col-lg-4 text-lg-end text-center">
                 <a class="eg-btn btn--primary btn--lg" href="/gallery">Ver galería</a>
-            </div>
+            </div> -->
         </div>
         <div class="row align-items-center g-4">
             <div class="col-lg-6">
@@ -116,7 +98,7 @@
     </div>
 </div>
 
-<div class="counter-section bg-color1">
+<div class="counter-section bg-color1" style="background-color: #808080;">
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6 col-6">
@@ -155,7 +137,7 @@
     </div>
 </div>
 
-<div class="testimonial-section bg-color2 pt-120 pb-120">
+<div class="testimonial-section pt-120 pb-120">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6 col-sm-12 order-lg-1 order-2">
