@@ -4,7 +4,7 @@
     </div>
     <div class="mobile-logo-area d-flex justify-content-start align-items-center">
         <div class="header-logo">
-            <a href="index.html"><img alt="image" class="img-fluid" src="assets/images/bg/header-logo.svg" /></a>
+            <a href="/"><img alt="image"  class="img-fluid" src="/assets/images/icons/logo_black.png" /></a>
         </div>
     </div>
     <div class="sidebar-menu-area">
@@ -18,44 +18,25 @@
             <li>
                 <a href="/portfolio">Portafolio</a>
             </li>
-            <li class="menu-item-has-children">
-                <a href="">Arte</a>
-                <ul class="submenu">
-                    <!-- <li><a href="">Retoque digital</a></li> -->
-                    <li><a href="/marcos">Marcos de madera</a></li>
-                    <li><a href="/restauraciones">Restauración de fotografías</a></li>
-                </ul>
-            </li>
-            <li class="menu-item-has-children">
-                <a href="">Fotografía</a>
-                <ul class="submenu">
+            <li class="menu-item-has-children menu-item">
+                <a href="#" class="drop-down">Fotografía</a><i class="bi bi-plus"></i>
+                <ul class="sub-menu">
                     <li><a href="/detail">Bodas</a></li>
                     <li><a href="/detail_xv">XV Años</a></li>
                 </ul>
             </li>
-            <li class="menu-item-has-children">
-                <a href="">Video</a>
-                <ul class="submenu">
+            <li class="menu-item-has-children menu-item">
+                <a href="#" class="drop-down">Video</a><i class="bi bi-plus"></i>
+                <ul class="sub-menu">
                     <li><a href="/video_gallery">Bodas</a></li>
                     <li><a href="/video_gallery">XV Años</a></li>
                 </ul>
             </li>
-            <li>
-                <a href="/gallery">Galería</a>
-            </li>
-            <li class="menu-item-has-children">
-                <a href="">Ver paquetes</a>
-                <ul class="submenu">
-                    <li><a href="/pricing">Fotografía</a></li>
-                    <li><a href="/pricing_video">Video</a></li>
-                </ul>
-            </li>
-            <li>
-                <a href="/faqs">FAQs</a>
-            </li>
+           
             <li>
                 <a href="/contact">Contacto</a>
             </li>
+           
             <!-- <li class="menu-item-has-children menu-item">
                 <a href="#" class="drop-down"> Home</a><i class="bi bi-plus"></i>
                 <ul class="sub-menu">
@@ -148,10 +129,10 @@
             <a href="tel:+012-3456-789102">+012-3456-789102</a>
         </div>
         <div class="sidebar-social d-flex justify-content-start gap-5 pt-3">
-            <a href="https://www.instagram.com/"><img src="assets/images/icons/instagram.svg" alt="image" /></a>
-            <a href="https://www.dribbble.com/"><img src="assets/images/icons/dribbble.svg" alt="image" /></a>
-            <a href="https://www.pinterest.com/"><img src="assets/images/icons/pinterest.svg" alt="image" /></a>
-            <a href="https://www.twitter.com/"><img src="assets/images/icons/Twitter.svg" alt="image" /></a>
+            <a href="https://www.instagram.com/"><img src="/assets/images/icons/instagram.svg" alt="image" /></a>
+            <a href="https://www.dribbble.com/"><img src="/assets/images/icons/dribbble.svg" alt="image" /></a>
+            <a href="https://www.pinterest.com/"><img src="/assets/images/icons/pinterest.svg" alt="image" /></a>
+            <a href="https://www.twitter.com/"><img src="/assets/images/icons/Twitter.svg" alt="image" /></a>
         </div>
     </div>
 </div>

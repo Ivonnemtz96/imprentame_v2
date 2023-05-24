@@ -1274,9 +1274,10 @@ ul.social-three li a:hover i {
   overflow-y: auto;
   /* background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
     url("../images/banner/banner-center-1.png"); */
-  background-size: cover;
+    background-color: #fff;
+  /* background-size: cover;
   background-repeat: no-repeat;
-  background-position: center right;
+  background-position: center right; */
   box-shadow: 4px 3px 20px rgba(16, 33, 34, 0.06);
   transition: all 0.7s;
   display: flex;
@@ -1329,7 +1330,8 @@ ul.social-three li a:hover i {
   opacity: 0.8;
 }
 .fixed-sidebar .menu-close-btn i {
-  color: var(--white);
+  /* color: var(--white); */
+  color: #000;
   font-size: 24px;
 }
 .fixed-sidebar .sidebar-menu-area > ul {
