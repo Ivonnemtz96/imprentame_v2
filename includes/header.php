@@ -1,4 +1,3 @@
-
 <div class="fixed-sidebar main-nav-js">
     <div class="menu-close-btn d-lg-none d-flex">
         <i class="bi bi-x-lg"></i>
@@ -10,7 +9,54 @@
     </div>
     <div class="sidebar-menu-area">
         <ul class="menu-list">
-            <li class="menu-item-has-children menu-item">
+            <li>
+                <a href="/">Inicio</a>
+            </li>
+            <li>
+                <a href="/about">Nosotros</a>
+            </li>
+            <li>
+                <a href="/portfolio">Portafolio</a>
+            </li>
+            <li class="menu-item-has-children">
+                <a href="">Arte</a>
+                <ul class="submenu">
+                    <!-- <li><a href="">Retoque digital</a></li> -->
+                    <li><a href="/marcos">Marcos de madera</a></li>
+                    <li><a href="/restauraciones">Restauración de fotografías</a></li>
+                </ul>
+            </li>
+            <li class="menu-item-has-children">
+                <a href="">Fotografía</a>
+                <ul class="submenu">
+                    <li><a href="/detail">Bodas</a></li>
+                    <li><a href="/detail_xv">XV Años</a></li>
+                </ul>
+            </li>
+            <li class="menu-item-has-children">
+                <a href="">Video</a>
+                <ul class="submenu">
+                    <li><a href="/video_gallery">Bodas</a></li>
+                    <li><a href="/video_gallery">XV Años</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="/gallery">Galería</a>
+            </li>
+            <li class="menu-item-has-children">
+                <a href="">Ver paquetes</a>
+                <ul class="submenu">
+                    <li><a href="/pricing">Fotografía</a></li>
+                    <li><a href="/pricing_video">Video</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="/faqs">FAQs</a>
+            </li>
+            <li>
+                <a href="/contact">Contacto</a>
+            </li>
+            <!-- <li class="menu-item-has-children menu-item">
                 <a href="#" class="drop-down"> Home</a><i class="bi bi-plus"></i>
                 <ul class="sub-menu">
                     <li><a href="index.html">Home One</a></li>
@@ -91,7 +137,7 @@
                     <li><a href="contact-me.html">Contact Me</a></li>
                     <li><a href="contact-us.html">Contact Us</a></li>
                 </ul>
-            </li>
+            </li> -->
         </ul>
     </div>
     <div class="sidebar-address">
