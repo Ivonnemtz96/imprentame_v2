@@ -9,7 +9,7 @@
 </style>
 <a href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información."
     target="_blank">
-    <img src="/assets/images/icons/whats.png" alt="WhatsApp" id="whatsapp" />
+    <img style="height: auto !important;" src="/assets/images/icons/whats.png" alt="WhatsApp" id="whatsapp" />
 </a>
 
 <footer class="footer-style-two">

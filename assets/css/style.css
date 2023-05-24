@@ -15,6 +15,7 @@
   --border-color-two: rgba(255, 255, 255, 0.08);
   --font-outfit: "Outfit", sans-serif;
   --font-jost: "Jost", sans-serif;
+  --gray:#515151;
 }
 ::-moz-selection {
   color: var(--bg-dark1);
@@ -70,7 +71,7 @@ h6 {
   font-family: var(--font-jost);
   font-weight: 500;
   line-height: 1.25;
-  color: var(--white);
+  color: var(--gray);
 }
 button {
   outline: none;
@@ -1271,8 +1272,8 @@ ul.social-three li a:hover i {
   z-index: 999;
   height: 100%;
   overflow-y: auto;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("../images/banner/banner-center-1.png");
+  /* background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("../images/banner/banner-center-1.png"); */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center right;
@@ -3394,7 +3395,8 @@ header.style-2 .menu-list > li.menu-item-has-children:hover .submenu {
   }
 }
 .servcie-section {
-  background-color: var(--bg-dark2);
+  /* background-color: var(--bg-dark2); */
+  background-color: #fff;
   padding-left: 120px;
   padding-right: 120px;
 }
@@ -3464,7 +3466,7 @@ header.style-2 .menu-list > li.menu-item-has-children:hover .submenu {
 }
 .service-single .service-content h3 a {
   font-size: 35px;
-  color: var(--white);
+  color: var(--gray);
 }
 @media (max-width: 767px) {
   .service-single .service-content h3 a {

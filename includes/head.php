@@ -30,8 +30,8 @@
      <!-- twenty-twenty -->
      <link rel="stylesheet" href="/assets/css/twentytwenty.css" type="text/css" media="screen" />
 
-     <!-- swiper -->
-     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"/>
+     <!-- magnific popup -->
+     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.magnific-popup/1.0.0/magnific-popup.css">
 
      <!-- icons social media -->
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"/>

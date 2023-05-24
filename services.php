@@ -13,7 +13,7 @@ include("includes/head.php");
         <div class="page-content-two">
             <?
                 include("includes/header_movil.php");
-                include("modules/services.php");
+                include("modules/bodas.php");
                 include("includes/footer.php");
             ?>
         </div>
