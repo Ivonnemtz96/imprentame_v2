@@ -31,10 +31,11 @@
      <link rel="stylesheet" href="/assets/css/twentytwenty.css" type="text/css" media="screen" />
 
      <!-- swiper -->
-     <link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"
-/>
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"/>
+
+     <!-- icons social media -->
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"/>
+
 
 
 
