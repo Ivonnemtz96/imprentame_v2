@@ -4,7 +4,7 @@
                     g-4">
             <div class="col-lg-8 text-lg-start text-center">
                 <div class="about-us-content">
-                    <h2>¿Qué es Imprentame?</h2>
+                    <h2>BODAS</h2>
                 </div>
             </div>
             <!-- <div class="col-lg-4 text-lg-end text-center">
@@ -98,7 +98,7 @@
     </div>
 </div>
 
-<div class="counter-section bg-color1" style="background-color: #808080;">
+<div class="counter-section bg-color1" style="background-color: #808080;padding:0px;">
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6 col-6">
