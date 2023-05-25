@@ -1,158 +1,90 @@
-<div class="bread-crumb-section">
-    <div class="container">
-        <div class="row justify-content-center align-items-center">
-            <div class="col-lg-8 d-flex justify-content-lg-start justify-content-center flex-column">
-                <h2 class="bread-crumb-title">Nuestro sorpendente trabajo</h2>
-                <nav aria-label="breadcrumb">
-                    <ol class="breadcrumb gap-3 m-0 p-0">
-                        <li class="breadcrumb-item"><a href="/">Inicio</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">
-                            Portafolio
-                        </li>
-                    </ol>
-                </nav>
-            </div>
-            <div class="col-lg-4">
-                <div class="circle-text-common circel-tex-area1">
-                    <img src="/assets/images/icons/camera-icon.svg" alt="image" />
-                    <p id="CircleTypeText1" class="circle-text">
-                        SCROLL * DOWN NOW&nbsp;
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+<style>
+    * {
+        box-sizing: border-box;
+    }
 
-<div class="our-portfilio-area bg-color2 pt-120 pb-120 mb-44">
-    <div class="container">
-        <div class="row justify-content-center g-4">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-title-one">Portafolio</h2>
-            </div>
-            <div class="col-lg-12">
-                <div class="filters filter-button-group">
-                    <ul class="d-flex justify-content-center flex-wrap">
-                        <!-- <li class="active" data-filter="*">Todos <span>50</span></li> -->
-                        <li class="active" data-filter="*">Todos</li>
-                        <li data-filter=".wedding">Bodas</li>
-                        <li data-filter=".xv">XV Años </li>
-                        <li data-filter=".productos">Productos</li>
-                        <li data-filter=".restauraciones">Restauraciones</li>
-                        <li data-filter=".eventos">Eventos</li>
-                        <li data-filter=".baby">Bebés</li>
-                    </ul>
-                </div>
-            </div>
+    .grid {
+        background: #333;
+    }
+
+    .grid:after {
+        content: '';
+        display: block;
+        clear: both;
+    }
+
+    .grid-sizer,
+    .grid-item {
+        width: 33.33%;
+    }
+
+    .grid-item {
+        float: left;
+    }
+
+    .grid-item:hover {
+        cursor: pointer;
+    }
+
+    .grid-item img {
+        display: block;
+        max-width: 100%;
+        border: 10px solid white;
+    }
+
+    @media screen and (max-width: 414px) {
+        .grid-item img {
+            border: 5px solid white;
+        }
+    }
+
+    .grid-item.grid-item__expanded {
+        width: 66.66%;
+        z-index: 2;
+    }
+</style>
+
+<section class="hero is-light is-medium">
+    <!-- <div class="hero-body">
+        <div class="container">
+            <h1 class="title">Testing Masonry - Cascading grid layout library</h1>
+            <h2 class="subtitle"> <a href="https://www.instagram.com/dan10gc/?hl=en">Images by Daniel Gonzalez</a></h2>
         </div>
-        <div class="row grid gy-4 mb-40 justify-content-center">
-            <div class="col-lg-4 col-md-6 col-sm-10 grid-item wedding">
-                <div class="portfolio-single-two magnetic-item">
-                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-1.webp" alt="image" />
-                    <div class="content">
-                        <h3>
-                            <a data-cursor="View<br>Details" href="/detail_beach">Bodas playa</a>
-                        </h3>
-                        <span>Fotografía</span>
-                    </div>
-                </div>
+    </div> -->
+    <div class="hero-foot" style="margin-top: 4rem;">
+        <nav class="tabs is-boxed is-fullwidth">
+            <div class="container">
+                <ul id="buttonGroup">
+                    <li class="is-active"><a id="all">Todas</a></li>
+                    <li><a id="bodas">Bodas </a></li>
+                    <li><a id="xv">XV Años</a></li>
+                    <li><a id="embarazos">Embarazos</a></li>
+                    <li><a id="familiares">Familiares</a></li>
+                    <li><a id="playa">Playa</a></li>
+                </ul>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-10 grid-item Wedding">
-                <div class="portfolio-single-two magnetic-item">
-                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-3.webp" alt="image" />
-                    <div class="content">
-                        <h3>
-                            <a data-cursor="View<br>Details" href="/detail">Bodas religiosas</a>
-                        </h3>
-                        <span>Fotografía</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-10 grid-item xv">
-                <div class="portfolio-single-two magnetic-item">
-                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-4.webp" alt="image" />
-                    <div class="content">
-                        <h3>
-                            <a data-cursor="View<br>Details" href="/detail_xv">XV años</a>
-                        </h3>
-                        <span>Fotografía</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-10 grid-item eventos">
-                <div class="portfolio-single-two magnetic-item">
-                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-9.webp" alt="image" />
-                    <div class="content">
-                        <h3>
-                            <a data-cursor="View<br>Details" href="/detail_photos">Eventos</a>
-                        </h3>
-                        <span>Fotografía</span>
-                    </div>
-                </div>
-            </div>
-            <!-- <div class="col-lg-4 col-md-6 col-sm-10 grid-item Lifestyle Nature Wedding">
-                <div class="portfolio-single-two magnetic-item">
-                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-6.webp" alt="image" />
-                    <div class="content">
-                        <h3>
-                            <a data-cursor="View<br>Details" href="portfolio-details.html">Sesión Salón</a>
-                        </h3>
-                        <span>Fotografía</span>
-                    </div>
-                </div>
-            </div> -->
-            <div class="col-lg-4 col-md-6 col-sm-10 grid-item productos">
-                <div class="portfolio-single-two magnetic-item">
-                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-2.webp" alt="image" />
-                    <div class="content">
-                        <h3>
-                            <a data-cursor="View<br>Details" href="/services">Productos</a>
-                        </h3>
-                        <span>Fotografía</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-10 grid-item baby">
-                <div class="portfolio-single-two magnetic-item">
-                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-5.webp" alt="image" />
-                    <div class="content">
-                        <h3>
-                            <a data-cursor="View<br>Details" href="/services">Bebés</a>
-                        </h3>
-                        <span>Fotografía</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-10 grid-item baby">
-                <div class="portfolio-single-two magnetic-item">
-                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-8.webp" alt="image" />
-                    <div class="content">
-                        <h3>
-                            <a data-cursor="View<br>Details" href="/services">Embarazo</a>
-                        </h3>
-                        <span>Fotografía</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-10 grid-item restauraciones">
-                <div class="portfolio-single-two magnetic-item">
-                    <img class="img-fluid" src="/assets/images/portfolio/portfolio4-7.webp" alt="image" />
-                    <div class="content">
-                        <h3>
-                            <a data-cursor="View<br>Details" href="/services">Restauraciones</a>
-                        </h3>
-                        <span>Restauración</span>
-                    </div>
-                </div>
-            </div>
-          
-        </div>
-        <!-- <div class="row">
-            <div class="col-lg-12 d-flex justify-content-center">
-                <div class="load-more-btn">
-                    <a class="eg-btn btn--primary btn--lg" href="#">Load More</a>
-                </div>
-            </div>
-        </div> -->
+        </nav>
     </div>
-</div>
+    <div class="grid" id="container">
+        <div class="grid-sizer"></div>
+        <div class="grid-item bodas"><img src="/assets/images/banner/01.jpg" alt="" /></div>
+        <div class="grid-item bodas"><img src="/assets/images/banner/02.jpg" /></div>
+        <div class="grid-item xv"><img src="/assets/images/banner/03.jpg" /></div>
+        <div class="grid-item xv"><img src="/assets/images/banner/01.jpg" /></div>
+        <div class="grid-item bodas"><img src="/assets/images/banner/03.jpg" /></div>
+        <div class="grid-item xv"><img src="/assets/images/banner/02.jpg" /></div>
+        <div class="grid-item xv"><img src="/assets/images/banner/01.jpg" /></div>
+        <div class="grid-item xv"><img src="/assets/images/banner/03.jpg" /></div>
+        <div class="grid-item bodas"><img src="/assets/images/banner/02.jpg" /></div>
+        <div class="grid-item embarazos"><img src="/assets/images/banner/01.jpg" /></div>
+        <div class="grid-item bodas"><img src="/assets/images/banner/02.jpg" /></div>
+        <div class="grid-item bodas"><img src="/assets/images/banner/03.jpg" /></div>
+        <div class="grid-item xv"><img src="/assets/images/banner/01.jpg" /></div>
+        <div class="grid-item bodas"><img src="/assets/images/banner/03.jpg" alt="" /></div>
+        <div class="grid-item embarazos"><img src="/assets/images/banner/02.jpg" /></div>
+        <div class="grid-item xv"><img src="/assets/images/banner/01.jpg" /></div>
+        <div class="grid-item embarazos"><img src="/assets/images/banner/02.jpg" /></div>
+        <div class="grid-item bodas"><img src="/assets/images/banner/03.jpg" alt="" /></div>
+        <div class="grid-item xv"><img src="/assets/images/banner/01.jpg" /></div>
+    </div>
+</section>

@@ -115,7 +115,7 @@
 
                     <span class="fnc-nav__control-progress"></span>
                 </button>
-                <button onclick="window.location.href='/services'" class="fnc-nav__control btn-entrar">
+                <button onclick="window.location.href='/portfolio'" class="fnc-nav__control btn-entrar">
                     Entrar / Enter
                     <!-- <span class="fnc-nav__control-progress"></span> -->
                 </button>

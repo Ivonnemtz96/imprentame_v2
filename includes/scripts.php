@@ -17,6 +17,7 @@
 <script src="/assets/js/jquery.fancybox.min.js"></script>
 <script src="/assets/js/main.js"></script>
 
+
 <!-- twenty-twenty -->
 <script src="/assets/js/jquery.event.move.js" type="text/javascript"></script>
 <script src="/assets/js/jquery.twentytwenty.js" type="text/javascript"></script>
@@ -223,9 +224,6 @@
     document.querySelector(".example-slider").classList.toggle("m--global-blending-active");
   });
 </script>
-<!-- Galería -->
+Galería
 <script src="/assets/js/app.js"></script>
 <script src="/assets/js/item.js"></script>
-<!--magnific pop up -->
-<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.magnific-popup/1.0.0/jquery.magnific-popup.min.js">
-

@@ -15,8 +15,11 @@
             <li>
                 <a href="/about">Nosotros</a>
             </li>
-            <li>
+            <!-- <li>
                 <a href="/portfolio">Portafolio</a>
+            </li> -->
+            <li >
+                <a href="/portfolio.php" class="drop-down">Portafolio</a>
             </li>
             <li class="menu-item-has-children menu-item">
                 <a href="#" class="drop-down">Fotografía</a><i class="bi bi-plus"></i>
