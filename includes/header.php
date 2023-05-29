@@ -26,6 +26,7 @@
                 <ul class="sub-menu">
                     <li><a href="/detail">Bodas</a></li>
                     <li><a href="/detail_xv">XV Años</a></li>
+                    <li><a href="/detail_beach">Playa</a></li>
                 </ul>
             </li>
             <li class="menu-item-has-children menu-item">
@@ -33,6 +34,7 @@
                 <ul class="sub-menu">
                     <li><a href="/video_gallery">Bodas</a></li>
                     <li><a href="/video_gallery">XV Años</a></li>
+                    <li><a href="/video_gallery">Playa</a></li>
                 </ul>
             </li>
            
