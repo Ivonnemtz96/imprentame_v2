@@ -33,9 +33,9 @@
             <li class="menu-item-has-children menu-item">
                 <a href="#" class="drop-down">Arte</a><i class="bi bi-plus"></i>
                 <ul class="sub-menu">
-                    <li><a href="/video_gallery">Bodas</a></li>
-                    <li><a href="/video_gallery">XV Años</a></li>
-                    <li><a href="/video_gallery">Playa</a></li>
+                    <li><a href="/marcos">Marcos de madera</a></li>
+                    <li><a href="/restauraciones">Restauración de fotografías</a></li>
+                    <li><a href="/restauraciones">Retoque fotográfico</a></li>
                 </ul>
             </li>
             <li class="menu-item-has-children menu-item">
