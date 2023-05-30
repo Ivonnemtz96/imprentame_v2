@@ -102,6 +102,11 @@
                 <div class="fnc-nav__bg m--navbg-red"></div>
                 <div class="fnc-nav__bg m--navbg-blue"></div>
             </div>
+            <div class="logo_index">
+                <img src="/assets/images/logo_art.png" alt="">
+            </div>
+
+            
             <div class="fnc-nav__controls">
                 <button hidden class="fnc-nav__control">
 
@@ -143,7 +148,7 @@
 
                 </ul>
             </div>
-
+            
         </nav>
 
     </div>

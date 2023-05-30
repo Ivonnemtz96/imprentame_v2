@@ -712,9 +712,21 @@ body {
   outline: none;
   cursor: pointer;
   z-index: 1;
-  right: 5rem;
+  right: 2rem;
   bottom: 1rem;
   border-radius: 50%;
   width: 30px;
 }
-/* Galería */
+/* logo de index */
+.logo_index {
+  text-align: center;
+  overflow: hidden;
+  position: relative;
+  vertical-align: top;
+  margin: 10px 10px 0 10px;
+  cursor: pointer;
+  z-index: 1;
+  right: 3rem;
+  bottom: 40rem;
+  width: 10rem;
+}
