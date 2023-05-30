@@ -11,36 +11,29 @@
                     </ol>
                 </nav>
             </div>
-            <div class="col-lg-4">
-                <div class="circle-text-common circel-tex-area1">
-                    <img src="/assets/images/icons/camera-icon.svg" alt="image">
-                    <p id="CircleTypeText1" class="circle-text">SCROLL *
-                        DOWN NOW&nbsp; </p>
-                </div>
-            </div>
         </div>
     </div>
 </div>
 
 
-<div class="contact-section bg-color2 pt-120 pb-120 mb-44">
+<div class="contact-section  pt-120 pb-120 mb-44">
     <div class="container">
         <div class="row justify-content-center gy-5">
             <div class="col-xl-5 col-lg-6 col-md-6 col-sm-10">
                 <div class="address-block">
-                    <h4>Teléfono :</h4>
+                    <h4>Teléfono:</h4>
                     <a target="_blank" href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">+52 624 157 4530</a>
                 </div>
                 <div class="address-block">
-                    <h4>Address :</h4>
+                    <h4>dirección:</h4>
                     <a href="#">Fracc. Country del Mar, San Jose del Cabo, <br> Baja California Sur</a>
                 </div>
                 <div class="address-block">
-                    <h4>Email :</h4>
+                    <h4>Email:</h4>
                     <a target="_blank" href="mailto:hola@imprentame.com">hola@imprentame.com</a>
                 </div>
                 <div class="address-block">
-                    <h4>Social :</h4>
+                    <h4>Social:</h4>
                     <ul class="social-one justify-content-start mt-3">
                         <li><img src="/assets/images/icons/instagram.svg" alt="image">
                             <a target="_blank" href="https://www.instagram.com/imprentame_oficial/">IN</a>
@@ -77,7 +70,7 @@
                         <div class="col-lg-6">
                             <div class="form-inner">
                                 <select name="evento" id=""
-                                    style="border: 1px solid rgba(255, 255, 255, 0.1); padding: 19px 25px; transition: all 0.5s ease; width: 100%; background-color: transparent; color: var(--text-light-one);">
+                                    style="border: 1px solid rgba(98, 98, 98, 0.8); padding: 15px 25px; transition: all 0.5s ease; width: 100%; background-color: transparent; color: var(--text-light-one);">
                                     <option value="Tipo de evento" disabled selected>Tipo de evento</option>
                                     <option value="Boda">Boda</option>
                                     <option value="XV Años">XV años</option>
@@ -118,7 +111,7 @@
 
                         <div class="col-lg-12">
                             <div class="form-inner">
-                                <textarea rows="6" placeholder="Nota"></textarea>
+                                <textarea rows="6" style="padding-left: 1.4rem;padding-top:1rem;" placeholder="Nota"></textarea>
                             </div>
                         </div>
                         <div class="col-12">

@@ -98,12 +98,12 @@ button:focus {
 }
 input,
 textarea {
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(98, 98, 98, 0.8);
   padding: 12px 25px;
   transition: all 0.5s ease;
   width: 100%;
-  background-color: transparent;
-  color: var(--text-light-one);
+  background-color: #fff;
+  color: #000;
 }
 input:focus,
 textarea:focus {
@@ -3684,7 +3684,7 @@ ul.social-one li a {
   display: block;
   font-size: 12px;
   font-weight: 500;
-  color: var(--white);
+  color: #000;
   font-family: var(--font-outfit);
   transition: all 0.45s ease-in-out;
   opacity: 0;
