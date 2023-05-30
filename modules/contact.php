@@ -37,7 +37,7 @@
                 </div>
                 <div class="address-block">
                     <h4>Email :</h4>
-                    <a target="_blank" href="hmailto:hola@imprentame.com">hola@imprentame.com</a>
+                    <a target="_blank" href="mailto:hola@imprentame.com">hola@imprentame.com</a>
                 </div>
                 <div class="address-block">
                     <h4>Social :</h4>

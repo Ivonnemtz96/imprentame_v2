@@ -4,7 +4,7 @@
                     g-4">
             <div class="col-lg-8 text-lg-start text-center">
                 <div class="about-us-content">
-                    <h2>Sesiones Playa</h2>
+                    <h2>SESIONES PLAYA</h2>
                 </div>
             </div>
             <!-- <div class="col-lg-4 text-lg-end text-center">

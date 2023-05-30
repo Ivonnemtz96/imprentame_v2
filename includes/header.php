@@ -4,7 +4,7 @@
     </div>
     <div class="mobile-logo-area d-flex justify-content-start align-items-center">
         <div class="header-logo">
-            <a href="/"><img alt="image"  class="img-fluid" src="/assets/images/icons/logo_black.png" /></a>
+            <a href="/"><img alt="image" class="img-fluid" src="/assets/images/icons/logo_black.png" /></a>
         </div>
     </div>
     <div class="sidebar-menu-area">
@@ -18,7 +18,7 @@
             <!-- <li>
                 <a href="/portfolio">Portafolio</a>
             </li> -->
-            <li >
+            <li>
                 <a href="/portfolio.php" class="drop-down">Portafolio</a>
             </li>
             <li class="menu-item-has-children menu-item">
@@ -27,6 +27,15 @@
                     <li><a href="/detail">Bodas</a></li>
                     <li><a href="/detail_xv">XV Años</a></li>
                     <li><a href="/detail_beach">Playa</a></li>
+                    <li><a href="/detail_photos">Embarazos</a></li>
+                </ul>
+            </li>
+            <li class="menu-item-has-children menu-item">
+                <a href="#" class="drop-down">Arte</a><i class="bi bi-plus"></i>
+                <ul class="sub-menu">
+                    <li><a href="/video_gallery">Bodas</a></li>
+                    <li><a href="/video_gallery">XV Años</a></li>
+                    <li><a href="/video_gallery">Playa</a></li>
                 </ul>
             </li>
             <li class="menu-item-has-children menu-item">
@@ -37,11 +46,11 @@
                     <li><a href="/video_gallery">Playa</a></li>
                 </ul>
             </li>
-           
+
             <li>
                 <a href="/contact">Contacto</a>
             </li>
-           
+
             <!-- <li class="menu-item-has-children menu-item">
                 <a href="#" class="drop-down"> Home</a><i class="bi bi-plus"></i>
                 <ul class="sub-menu">
@@ -129,14 +138,16 @@
     <div class="sidebar-address">
         <div class="sidebar-address-block">
             <h6>Email :</h6>
-            <a href="https://demo.egenslab.com/cdn-cgi/l/email-protection#a7d4d2d7d7c8d5d3e7c2dfc6cad7cbc289c4c8ca" class="mb-4"><span class="__cf_email__" data-cfemail="83f0f6f3f3ecf1f7c3e6fbe2eef3efe6ade0ecee">[email&#160;protected]</span></a>
-            <h6>Phone :</h6>
-            <a href="tel:+012-3456-789102">+012-3456-789102</a>
+            <a target="_blank" href="mailto:hola@imprentame.com"
+                class="mb-4">
+                hola@imprentame.com
+            </a>
+            <h6>Teléfono :</h6>
+            <a target="_blank" href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">+52 624 157 4530</a>
         </div>
         <div class="sidebar-social d-flex justify-content-start gap-5 pt-3">
             <a href="https://www.instagram.com/"><img src="/assets/images/icons/instagram.svg" alt="image" /></a>
-            <a href="https://www.dribbble.com/"><img src="/assets/images/icons/dribbble.svg" alt="image" /></a>
-            <a href="https://www.pinterest.com/"><img src="/assets/images/icons/pinterest.svg" alt="image" /></a>
+            <a href="https://www.dribbble.com/"><img src="/assets/images/icons/fb.svg" alt="image" /></a>
             <a href="https://www.twitter.com/"><img src="/assets/images/icons/Twitter.svg" alt="image" /></a>
         </div>
     </div>
