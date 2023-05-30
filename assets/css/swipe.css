@@ -455,13 +455,13 @@ body {
 }
 .example-slider .fnc-slide-2 .fnc-slide__inner,
 .example-slider .fnc-slide-2 .fnc-slide__mask-inner {
-  background-image: url("/assets/images/banner/02.jpg");
+  background-image: url("/assets/images/banner/04.jpg");
   background-position: center;
   background-size: cover;
 }
 .example-slider .fnc-slide-3 .fnc-slide__inner,
 .example-slider .fnc-slide-3 .fnc-slide__mask-inner {
-  background-image: url("/assets/images/banner/01.jpg");
+  background-image: url("/assets/images/banner/06.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -476,7 +476,7 @@ body {
 }
 .example-slider .fnc-slide-4 .fnc-slide__inner,
 .example-slider .fnc-slide-4 .fnc-slide__mask-inner {
-  background-image: url("/assets/images/banner/02.jpg");
+  background-image: url("/assets/images/banner/05.jpg");
   background-position: center;
   background-size: cover;
 }
