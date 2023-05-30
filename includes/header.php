@@ -35,7 +35,7 @@
                 <ul class="sub-menu">
                     <li><a href="/marcos">Marcos de madera</a></li>
                     <li><a href="/restauraciones">Restauración de fotografías</a></li>
-                    <li><a href="/restauraciones">Retoque fotográfico</a></li>
+                    <li><a href="/retoque">Retoque fotográfico</a></li>
                 </ul>
             </li>
             <li class="menu-item-has-children menu-item">

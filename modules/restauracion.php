@@ -10,18 +10,13 @@
                     </ol>
                 </nav>
             </div>
-            <div class="col-lg-4">
-                <div class="circle-text-common circel-tex-area1">
-                    <img src="/assets/images/icons/camera-icon.svg" alt="image">
-                    <p id="CircleTypeText1" class="circle-text">SCROLL * DOWN NOW&nbsp; </p>
-                </div>
-            </div>
+            
         </div>
     </div>
 </div>
 
 
-<div class="portfolio-detaisl-section bg-color2">
+<div class="portfolio-detaisl-section">
     <div class="container-fluid">
         <div class="portfolio-details-image mb-60">
             <img src="/assets/images/portfolio/boda_religiosa.webp" alt="image">
@@ -30,7 +25,7 @@
     <div class="container">
         <div class="portfolio-details-content">
             <div class="row gy-5">
-                <div class="col-lg-8">
+                <div class="col-lg-12 mb-5">
                     <div class="photographer-details">
                         <span>Restauraciones</span>
                         <h2>Servicios de restauración de fotografías</h2>
@@ -47,28 +42,6 @@
                             videos.
 
                         </p>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="photo-info-card">
-                        <ul>
-                            <!-- <li>
-                                <h5>Client :</h5>
-                                <span>Johan Luke Julian</span>
-                            </li> -->
-                            <li>
-                                <h5>Categoría :</h5>
-                                <span>Restauraciones de fotografías </span>
-                            </li>
-                            <li>
-                                <h5>Tipo :</h5>
-                                <span>Restauraciones</span>
-                            </li>
-                            <li>
-                                <h5>Dirección :</h5>
-                                <span>San José del Cabo</span>
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </div>
@@ -112,7 +85,7 @@
         </div>
 
 
-        <div class="row justify-content-center text-center mt-5">
+        <div class="row justify-content-center text-center mt-5" style="margin-bottom:7rem;">
             <div class="col-md-12">
                 <div class="container">
                     <a class="eg-btn btn--primary btn--lg"
@@ -122,37 +95,5 @@
 
         </div>
     </div>
-    <div class="container-fluid pt-120 mb-44">
-        <div class="portfolio-navigation">
-            <div class="row align-items-center">
-                <div class="col-lg-4 col-md-4 col-sm-4 col-6">
-                    <div class="arrow-prev text-end">
-                        <a href="/video_gallery">
-                            <span>Anterior</span>
-                            <svg width="171" height="10" viewBox="0 0 171 10" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M1 5L171 4.99999" />
-                                <path d="M6 1L1 5L6 9" stroke-linecap="round" />
-                            </svg>
-                        </a>
 
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-4 col-4 d-sm-block d-none text-center">
-                    <h4>Portafolio</h4>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-4 col-6">
-                    <div class="arrow-prev text-start">
-
-                        <a href="/marcos">
-                            <span>Siguiente</span>
-                            <svg width="171" height="10" viewBox="0 0 171 10" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M0 5L170 4.99999" />
-                                <path d="M165 9L170 5L165 1" stroke-linecap="round" />
-                            </svg>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 </div>
