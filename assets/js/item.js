@@ -6,8 +6,7 @@ var imgAll = document.querySelectorAll('.grid-item');
 var imgNy = document.querySelectorAll('.bodas');
 var imgFlowers = document.querySelectorAll('.xv');
 var imgOthers = document.querySelectorAll('.embarazos');
-// var imgFam = document.querySelectorAll('.familiares');
-// var imgPlaya = document.querySelectorAll('.playa');
+var imgFam = document.querySelectorAll('.familiares');
 // buttons
 const tabsUl = document.getElementById('buttonGroup');
 const lis = tabsUl.children;
@@ -35,16 +34,19 @@ function toggleClass(parentElem, childElems, className){
 	}
 }
 
-function showImages(showImg, hideImg1, hideImg2){
-	for(let i = 0; i < showImg.length; i++){
-			showImg[i].style.display = "block";
-		}
-		for(let i = 0; i < hideImg1.length; i++){
-			hideImg1[i].style.display = "none";
-		}
-		for(let i = 0; i< hideImg2.length; i++){
-			hideImg2[i].style.display = "none";
-		}
+function showImages(showImg, hideImg1, hideImg2, hideImg3) {
+    for (let i = 0; i < showImg.length; i++) {
+        showImg[i].style.display = "block";
+    }
+    for (let i = 0; i < hideImg1.length; i++) {
+        hideImg1[i].style.display = "none";
+    }
+    for (let i = 0; i < hideImg2.length; i++) {
+        hideImg2[i].style.display = "none";
+    }
+    for (let i = 0; i < hideImg3.length; i++) {
+        hideImg3[i].style.display = "none";
+    }
 }
 
 
@@ -62,27 +64,24 @@ tabsUl.addEventListener('click', (event) =>{
 	
 	//show ny images
 	if(event.target.id == "bodas"){
-		showImages(imgNy, imgFlowers, imgOthers);
+		showImages(imgNy, imgFlowers, imgOthers, imgFam);
 	}
 	
 	// show flowers
 	if(event.target.id == "xv"){
-		showImages(imgFlowers, imgNy, imgOthers);
+		showImages(imgFlowers, imgNy, imgOthers, imgFam);
 	}
 	
 	// show other images
 	if(event.target.id == "embarazos"){
-		showImages(imgOthers, imgFlowers, imgNy);
+		showImages(imgOthers, imgFlowers, imgNy, imgFam);
 	}
 
 	// show other images
-	// if(event.target.id == "familiares"){
-	// 	showImages(imgfam, imgFlowers, imgNy, imgOthers);
-	// }
-	// show other images
-	// if(event.target.id == "playa"){
-	// 	showImages(imgOthers, imgFlowers, imgNy, imgFam);
-	// }
+	if(event.target.id == "familiares"){
+		showImages(imgFam, imgFlowers, imgNy, imgOthers);
+	}
+	
 	
 	msnry.layout();
 	

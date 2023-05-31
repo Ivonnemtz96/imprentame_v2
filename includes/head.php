@@ -27,21 +27,23 @@
     <!-- Swiper CSS -->
     <link rel="stylesheet" href="/assets/css/swipe.css">
 
-     <!-- twenty-twenty -->
-     <link rel="stylesheet" href="/assets/css/twentytwenty.css" type="text/css" media="screen" />
+    <!-- twenty-twenty -->
+    <link rel="stylesheet" href="/assets/css/twentytwenty.css" type="text/css" media="screen" />
 
-     <!-- magnific popup -->
-     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.magnific-popup/1.0.0/magnific-popup.css">
+    <!-- magnific popup -->
+    <link rel="stylesheet" type="text/css"
+        href="https://cdn.jsdelivr.net/jquery.magnific-popup/1.0.0/magnific-popup.css">
 
-     <!-- icons social media -->
-     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"/>
+    <!-- icons social media -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
 
-     <!-- masonry nuevo -->
-     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.4.2/css/bulma.min.css"/>
-     <!-- masonry nuevo -->
-<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
-     
+    <!-- masonry nuevo -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.4.2/css/bulma.min.css" />
+    <!-- masonry nuevo -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.4.2/css/bulma.min.css">
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+    <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+
 
 
 </head>

@@ -4,7 +4,7 @@
     }
 
     .grid {
-        background: #333;
+        background: #fff;
     }
 
     .grid:after {
@@ -59,7 +59,7 @@
                     <li><a id="bodas">Bodas </a></li>
                     <li><a id="xv">XV Años</a></li>
                     <li><a id="embarazos">Embarazos</a></li>
-                    <!-- <li><a id="familiares">Familiares</a></li> -->
+                    <li><a id="familiares">Familiares</a></li>
                     <!-- <li><a id="playa">Playa</a></li> -->
                 </ul>
             </div>
