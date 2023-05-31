@@ -19,7 +19,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="about-us-content">
-                    <p><strong>Imprentame</strong> te ofrece Arte, Fotogratla y Video Profesional en Los Cabos,
+                    <p><strong>Imprentame</strong> te ofrece Arte, Fotografía y Video Profesional en Los Cabos,
                         ofrecemos diferentes
                         tipos de
                         fotogratía, como son: fotografía de boda, fotografia de quinceañera, fotografía de grupos,
