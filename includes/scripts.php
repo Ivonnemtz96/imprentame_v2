@@ -225,5 +225,5 @@
   });
 </script>
 <!-- Galería -->
-<script src="/assets/js/app.js"></script>
+<!-- <script src="/assets/js/app.js"></script> -->
 <script src="/assets/js/item.js"></script>

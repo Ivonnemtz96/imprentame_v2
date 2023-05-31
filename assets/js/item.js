@@ -1,13 +1,13 @@
 
-    var grid = document.querySelector('.grid');
+var grid = document.querySelector('.grid');
 var msnry;
 // element selectors
 var imgAll = document.querySelectorAll('.grid-item');
 var imgNy = document.querySelectorAll('.bodas');
 var imgFlowers = document.querySelectorAll('.xv');
 var imgOthers = document.querySelectorAll('.embarazos');
-var imgFam = document.querySelectorAll('.familiares');
-var imgPlaya = document.querySelectorAll('.playa');
+// var imgFam = document.querySelectorAll('.familiares');
+// var imgPlaya = document.querySelectorAll('.playa');
 // buttons
 const tabsUl = document.getElementById('buttonGroup');
 const lis = tabsUl.children;
@@ -62,27 +62,27 @@ tabsUl.addEventListener('click', (event) =>{
 	
 	//show ny images
 	if(event.target.id == "bodas"){
-		showImages(imgNy, imgFlowers, imgOthers, imgFam, imgPlaya);
+		showImages(imgNy, imgFlowers, imgOthers);
 	}
 	
 	// show flowers
 	if(event.target.id == "xv"){
-		showImages(imgFlowers, imgNy, imgOthers, imgFam, imgPlaya);
+		showImages(imgFlowers, imgNy, imgOthers);
 	}
 	
 	// show other images
 	if(event.target.id == "embarazos"){
-		showImages(imgOthers, imgFlowers, imgNy, imgFam, imgPlaya);
+		showImages(imgOthers, imgFlowers, imgNy);
 	}
 
 	// show other images
-	if(event.target.id == "familiares"){
-		showImages(imgOthers, imgFlowers, imgNy, imgFam, imgPlaya);
-	}
+	// if(event.target.id == "familiares"){
+	// 	showImages(imgfam, imgFlowers, imgNy, imgOthers);
+	// }
 	// show other images
-	if(event.target.id == "playa"){
-		showImages(imgOthers, imgFlowers, imgNy, imgFam, imgPlaya);
-	}
+	// if(event.target.id == "playa"){
+	// 	showImages(imgOthers, imgFlowers, imgNy, imgFam);
+	// }
 	
 	msnry.layout();
 	

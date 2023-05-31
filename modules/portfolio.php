@@ -59,8 +59,8 @@
                     <li><a id="bodas">Bodas </a></li>
                     <li><a id="xv">XV Años</a></li>
                     <li><a id="embarazos">Embarazos</a></li>
-                    <li><a id="familiares">Familiares</a></li>
-                    <li><a id="playa">Playa</a></li>
+                    <!-- <li><a id="familiares">Familiares</a></li> -->
+                    <!-- <li><a id="playa">Playa</a></li> -->
                 </ul>
             </div>
         </nav>
@@ -68,23 +68,30 @@
     <div class="grid" id="container">
         <div class="grid-sizer"></div>
         <div class="grid-item bodas"><img src="/assets/images/banner/01.jpg" alt="" /></div>
-        <div class="grid-item bodas"><img src="/assets/images/banner/02.jpg" /></div>
-        <div class="grid-item xv"><img src="/assets/images/banner/03.jpg" /></div>
-        <div class="grid-item xv"><img src="/assets/images/banner/01.jpg" /></div>
+        <div class="grid-item embarazos"><img src="/assets/images/banner/11.jpg" /></div>
         <div class="grid-item bodas"><img src="/assets/images/banner/03.jpg" /></div>
-        <div class="grid-item xv"><img src="/assets/images/banner/02.jpg" /></div>
-        <div class="grid-item xv"><img src="/assets/images/banner/01.jpg" /></div>
-        <div class="grid-item xv"><img src="/assets/images/banner/03.jpg" /></div>
-        <div class="grid-item bodas"><img src="/assets/images/banner/02.jpg" /></div>
-        <div class="grid-item embarazos"><img src="/assets/images/banner/01.jpg" /></div>
-        <div class="grid-item bodas"><img src="/assets/images/banner/02.jpg" /></div>
-        <div class="grid-item bodas"><img src="/assets/images/banner/03.jpg" /></div>
-        <div class="grid-item xv"><img src="/assets/images/banner/01.jpg" /></div>
-        <div class="grid-item bodas"><img src="/assets/images/banner/03.jpg" alt="" /></div>
-        <div class="grid-item embarazos"><img src="/assets/images/banner/02.jpg" /></div>
-        <div class="grid-item xv"><img src="/assets/images/banner/01.jpg" /></div>
-        <div class="grid-item embarazos"><img src="/assets/images/banner/02.jpg" /></div>
-        <div class="grid-item bodas"><img src="/assets/images/banner/03.jpg" alt="" /></div>
-        <div class="grid-item xv"><img src="/assets/images/banner/01.jpg" /></div>
+        <div class="grid-item xv"><img src="/assets/images/banner/14.jpg" /></div>
+        <div class="grid-item familiares"><img src="/assets/images/banner/22.jpg" /></div>
+        <div class="grid-item xv"><img src="/assets/images/banner/07.jpg" /></div>
+        <div class="grid-item familiares"><img src="/assets/images/banner/15.jpg" /></div>
+        <div class="grid-item bodas"><img src="/assets/images/banner/05.jpg" /></div>
+        <div class="grid-item familiares"><img src="/assets/images/banner/23.jpg" alt="" /></div>
+        <div class="grid-item embarazos"><img src="/assets/images/banner/12.jpg" /></div>
+        <div class="grid-item xv"><img src="/assets/images/banner/10.jpg" /></div>
+        <div class="grid-item familiares"><img src="/assets/images/banner/24.jpg" /></div>
+        <div class="grid-item bodas"><img src="/assets/images/banner/04.jpg" /></div>
+        <div class="grid-item xv"><img src="/assets/images/banner/08.jpg" /></div>
+        <div class="grid-item familiares"><img src="/assets/images/banner/17.jpg" /></div>
+        <div class="grid-item bodas"><img src="/assets/images/banner/06.jpg" /></div>
+        <div class="grid-item familiares"><img src="/assets/images/banner/21.jpg" /></div>
+        <div class="grid-item bodas"><img src="/assets/images/banner/02.jpg" alt="" /></div>
+        <div class="grid-item familiares"><img src="/assets/images/banner/19.jpg" /></div>
+        <div class="grid-item xv"><img src="/assets/images/banner/13.jpg" /></div>
+        <div class="grid-item familiares"><img src="/assets/images/banner/16.jpg" /></div>
+        <div class="grid-item xv"><img src="/assets/images/banner/09.jpg" /></div>
+        <div class="grid-item familiares"><img src="/assets/images/banner/20.jpg" /></div>
+        <div class="grid-item xv"><img src="/assets/images/banner/18.jpg" /></div>
     </div>
 </section>
+
+
