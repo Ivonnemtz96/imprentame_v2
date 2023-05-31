@@ -1,4 +1,4 @@
-<div class="about-us-section pt-120 pb-120" data-scroll data-scroll-speed="3">
+<div class="about-us-section pt-50 pb-120" data-scroll data-scroll-speed="3">
     <div class="container">
         <div class="row justify-content-center align-items-center mb-40
                     g-4">

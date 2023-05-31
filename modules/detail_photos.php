@@ -1,10 +1,10 @@
-<div class="about-us-section pt-120 pb-120" data-scroll data-scroll-speed="3">
+<div class="about-us-section pt-50 pb-120" data-scroll data-scroll-speed="3">
     <div class="container">
         <div class="row justify-content-center align-items-center mb-40
                     g-4">
             <div class="col-lg-8 text-lg-start text-center">
                 <div class="about-us-content">
-                    <h2>SESIONES EMBARAZOS</h2>
+                    <h2>SESIONES FAMILIARES</h2>
                 </div>
             </div>
             <!-- <div class="col-lg-4 text-lg-end text-center">
