@@ -5,7 +5,6 @@ var msnry;
 var imgAll = document.querySelectorAll('.grid-item');
 var imgNy = document.querySelectorAll('.bodas');
 var imgFlowers = document.querySelectorAll('.xv');
-var imgOthers = document.querySelectorAll('.embarazos');
 var imgFam = document.querySelectorAll('.familiares');
 // buttons
 const tabsUl = document.getElementById('buttonGroup');
@@ -44,9 +43,6 @@ function showImages(showImg, hideImg1, hideImg2, hideImg3) {
     for (let i = 0; i < hideImg2.length; i++) {
         hideImg2[i].style.display = "none";
     }
-    for (let i = 0; i < hideImg3.length; i++) {
-        hideImg3[i].style.display = "none";
-    }
 }
 
 
@@ -64,22 +60,22 @@ tabsUl.addEventListener('click', (event) =>{
 	
 	//show ny images
 	if(event.target.id == "bodas"){
-		showImages(imgNy, imgFlowers, imgOthers, imgFam);
+		showImages(imgNy, imgFlowers,imgFam);
 	}
 	
 	// show flowers
 	if(event.target.id == "xv"){
-		showImages(imgFlowers, imgNy, imgOthers, imgFam);
+		showImages(imgFlowers, imgNy,imgFam);
 	}
 	
 	// show other images
 	if(event.target.id == "embarazos"){
-		showImages(imgOthers, imgFlowers, imgNy, imgFam);
+		showImages(imgFlowers, imgNy, imgFam);
 	}
 
 	// show other images
 	if(event.target.id == "familiares"){
-		showImages(imgFam, imgFlowers, imgNy, imgOthers);
+		showImages(imgFam, imgFlowers, imgNy);
 	}
 	
 	
