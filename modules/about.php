@@ -162,7 +162,7 @@
                         order-1">
                 <div class="section-title-one text-lg-start
                             text-center">
-                    <h2>Lo qué dicen de nosotros</h2>
+                    <h2 style="color: #808080;">Lo qué dicen de nosotros</h2>
                 </div>
                 <div class="slider-arrows arrows-style-1 text-center
                             d-lg-flex d-none flex-row justify-content-lg-end

@@ -581,7 +581,7 @@ body.tt-magic-cursor #magic-cursor {
 }
 .section-title-one h2 {
   font-size: 40px;
-  color: var(--white);
+  color: var(--text-light-one);
 }
 @media (max-width: 767px) {
   .section-title-one h2 {
@@ -5325,7 +5325,7 @@ ul.social-four li a:hover i {
 .testi-single-one {
   background-color: var(--bg-dark1);
   padding: 60px 50px;
-  width: 100%;
+  /* width: 100%; */
   max-width: 745px;
 }
 @media (min-width: 768px) and (max-width: 991px) {
