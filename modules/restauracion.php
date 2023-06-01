@@ -1,4 +1,4 @@
-<div class="bread-crumb-section">
+<!-- <div class="bread-crumb-section">
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-8 d-flex justify-content-lg-start justify-content-center flex-column">
@@ -14,14 +14,14 @@
         </div>
     </div>
 </div>
-
+ -->
 
 <div class="portfolio-detaisl-section">
-    <div class="container-fluid">
+    <!-- <div class="container-fluid">
         <div class="portfolio-details-image mb-60">
             <img src="/assets/images/portfolio/boda_religiosa.webp" alt="image">
         </div>
-    </div>
+    </div> -->
     <div class="container">
         <div class="portfolio-details-content">
             <div class="row gy-5">
