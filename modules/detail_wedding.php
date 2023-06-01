@@ -14,7 +14,7 @@
         <div class="row align-items-center g-4">
             <div class="col-lg-6">
                 <div class="about-us-image">
-                    <img src="/assets/images/bg/about-us1.webp" alt="image">
+                    <img src="/assets/images/banner/01.jpg" alt="image">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -90,15 +90,15 @@
                 <div class="about-image-group d-flex flex-row
                             flex-nowrap justify-content-lg-start
                             justify-content-center">
-                    <img src="/assets/images/bg/about-us2.webp" alt="image">
-                    <img src="/assets/images/bg/about-us3.webp" class="d-xxl-block d-none" alt="image">
+                    <img width="340" src="/assets/images/banner/03.jpg" alt="image">
+                    <img width="340" src="/assets/images/banner/04.jpg" class="d-xl-block d-lg-none d-md-none" alt="image">
                 </div>
             </div>
         </div>
     </div>
 </div>
 
-<div class="counter-section bg-color1" style="background-color: #808080;padding:0px;">
+<div class="counter-section bg-color1" style="background-color: #808080;padding:0px;margin-bottom:2rem;">
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6 col-6">
