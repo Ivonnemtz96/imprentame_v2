@@ -4,11 +4,11 @@
     </div>
     <div class="mobile-logo-area d-flex justify-content-start align-items-center">
         <div class="header-logo">
-            <a href="/"><img alt="image" class="img-fluid" src="/assets/images/icons/logo_black.png" /></a>
+            <a href="/"><img style="width: 16rem;" alt="image" class="img-fluid" src="/assets/images/icons/logo_black.png" /></a>
         </div>
     </div>
     <div class="sidebar-menu-area">
-        <ul class="menu-list">
+        <ul class="menu-list" style="padding: 55px 0px;">
             <li>
                 <a href="/">Inicio</a>
             </li>
