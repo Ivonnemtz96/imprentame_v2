@@ -131,19 +131,19 @@
             <div class="redes-sociales">
                 <ul class="lista_redes">
                     <li>
-                        <a class="btn-redes" href="">
+                        <a class="btn-redes" target="_blank" href="https://www.facebook.com/imprentame/">
                             <i class="fab fa-facebook"></i>
                         </a>
                     </li>
 
                     <li>
-                        <a class="btn-redes" href="">
+                        <a class="btn-redes"  target="_blank" href="https://www.instagram.com/imprentame_oficial/">
                             <i class="fab fa-instagram"></i>
                         </a>
                     </li>
 
                     <li>
-                        <a class="btn-redes" href="">
+                        <a class="btn-redes" href="#">
                             <i class="fab fa-youtube"></i>
                         </a>
                     </li>

@@ -183,8 +183,8 @@
                             <div class="testi-single-one">
                                 <div class="testi-header">
                                     <div class="designation">
-                                        <h3>Savannah Nguyen</h3>
-                                        <span>Executive CEO</span>
+                                        <h3 style="color: white;">Aria Broxton</h3>
+                                        <!-- <span>Executive CEO</span> -->
                                     </div>
                                     <div class="review-area">
                                         <ul class="review-list">
@@ -202,17 +202,9 @@
                                     </div>
                                 </div>
                                 <div class="testi-body">
-                                    <p>Quisque magna lorem, mattis a
-                                        auctor eu, commodo vitae
-                                        ligulaMo
-                                        ante id vulputate ultrices, eros
-                                        est lacinia quam, vel finibus
-                                        nibh nisls
-                                        Nulla ut dolor arcu. Praesent
-                                        vel justo at quam semper
-                                        lobortis in rutrum justo. Ut in
-                                        sem non elit molestie commodo
-                                        vehicula a ex.</p>
+                                    <p>Jorge was wonderful to work with for our family photos in Cabo. We had a new baby
+                                        and he was very patient in helping us get good shots of her. Overall we are
+                                        happy with our family photos! Thank you Jorge!</p>
                                 </div>
                             </div>
                         </div>
@@ -220,8 +212,8 @@
                             <div class="testi-single-one">
                                 <div class="testi-header">
                                     <div class="designation">
-                                        <h3>Anjelina Lira</h3>
-                                        <span>Executive Manager</span>
+                                        <h3 style="color: white;">Sonia Aguirre</h3>
+                                        <!-- <span>Executive Manager</span> -->
                                     </div>
                                     <div class="review-area">
                                         <ul class="review-list">
@@ -239,17 +231,8 @@
                                     </div>
                                 </div>
                                 <div class="testi-body">
-                                    <p>Quisque magna lorem, mattis a
-                                        auctor eu, commodo vitae
-                                        ligulaMo
-                                        ante id vulputate ultrices, eros
-                                        est lacinia quam, vel finibus
-                                        nibh nisls
-                                        Nulla ut dolor arcu. Praesent
-                                        vel justo at quam semper
-                                        lobortis in rutrum justo. Ut in
-                                        sem non elit molestie commodo
-                                        vehicula a ex.</p>
+                                    <p>Excelente Trabajo. Muy Profesional. facil de trabajar para lograr los mejores
+                                        resultados. Lo recomendamos 100%.</p>
                                 </div>
                             </div>
                         </div>
@@ -257,8 +240,8 @@
                             <div class="testi-single-one">
                                 <div class="testi-header">
                                     <div class="designation">
-                                        <h3>Emma Watson</h3>
-                                        <span>Area Manager</span>
+                                        <h3 style="color: white;">Mary Morton</h3>
+                                        <!-- <span>Area Manager</span> -->
                                     </div>
                                     <div class="review-area">
                                         <ul class="review-list">
@@ -276,17 +259,12 @@
                                     </div>
                                 </div>
                                 <div class="testi-body">
-                                    <p>Quisque magna lorem, mattis a
-                                        auctor eu, commodo vitae
-                                        ligulaMo
-                                        ante id vulputate ultrices, eros
-                                        est lacinia quam, vel finibus
-                                        nibh nisls
-                                        Nulla ut dolor arcu. Praesent
-                                        vel justo at quam semper
-                                        lobortis in rutrum justo. Ut in
-                                        sem non elit molestie commodo
-                                        vehicula a ex.</p>
+                                    <p>My husband and I recently celebrated our 20th wedding anniversary. Our entire
+                                        family was present for this special occasion. Imprentame captured some of the
+                                        most amazing moments! He really had an eye for photography and that was
+                                        manifested in each beautiful photo. <br>
+                                        There are many photographers in Cabo, but we are so happy with the quality of
+                                        our photos taken by Imprentame!</p>
                                 </div>
                             </div>
                         </div>
@@ -294,8 +272,8 @@
                             <div class="testi-single-one">
                                 <div class="testi-header">
                                     <div class="designation">
-                                        <h3>Savannah Nguyen</h3>
-                                        <span>Executive CEO</span>
+                                        <h3 style="color: white;">Mar Chavez</h3>
+                                        <!-- <span>Executive CEO</span> -->
                                     </div>
                                     <div class="review-area">
                                         <ul class="review-list">
@@ -313,17 +291,11 @@
                                     </div>
                                 </div>
                                 <div class="testi-body">
-                                    <p>Quisque magna lorem, mattis a
-                                        auctor eu, commodo vitae
-                                        ligulaMo
-                                        ante id vulputate ultrices, eros
-                                        est lacinia quam, vel finibus
-                                        nibh nisls
-                                        Nulla ut dolor arcu. Praesent
-                                        vel justo at quam semper
-                                        lobortis in rutrum justo. Ut in
-                                        sem non elit molestie commodo
-                                        vehicula a ex.</p>
+                                    <p>Un excelente trabajo❕❕❕
+                                        Cumplió cada expectativa en nuestra sesión de fotos ✨
+                                        Lo recomiendo Ampliamente 👍🏽
+                                        Gracias Jorge Nos encantó Nuestras Fotos 🥰✈️ Nos quedamos con un bonito
+                                        Recuerdo de los Cabos</p>
                                 </div>
                             </div>
                         </div>

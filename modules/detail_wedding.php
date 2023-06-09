@@ -47,7 +47,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="experience-block">
-                    <h2>Experiencia</h2>
+                    <h2>Sesiones</h2>
                     <p>
                         Mi nombre es Jorge Montoya, hablo inglés y español, artista retocador digital, fotógrafo y
                         videógrafo quien siempre está en

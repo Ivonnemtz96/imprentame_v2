@@ -146,9 +146,9 @@
             <a target="_blank" href="https://wa.me/+526241574530?text=Hola,%20me%20gustó%20su%20sitio%20web%20me%20gustaría%20más%20información.">+52 624 157 4530</a>
         </div>
         <div class="sidebar-social d-flex justify-content-start gap-5 pt-3">
-            <a href="https://www.instagram.com/"><img src="/assets/images/icons/instagram.svg" alt="image" /></a>
-            <a href="https://www.dribbble.com/"><img src="/assets/images/icons/fb.svg" alt="image" /></a>
-            <a href="https://www.twitter.com/"><img src="/assets/images/icons/Twitter.svg" alt="image" /></a>
+            <a target="_blank" href="https://www.instagram.com/imprentame_oficial/"><img src="/assets/images/icons/instagram.svg" alt="image" /></a>
+            <a target="_blank" href="https://www.facebook.com/imprentame/"><img src="/assets/images/icons/fb.svg" alt="image" /></a>
+            <!-- <a href="https://www.twitter.com/"><img src="/assets/images/icons/Twitter.svg" alt="image" /></a> -->
         </div>
     </div>
 </div>
